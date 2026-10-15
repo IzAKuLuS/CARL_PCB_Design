@@ -7353,6 +7353,80 @@
 	)
 	(symbol
 		(lib_id "powerDristributionBoard-altium-import:GND_POWER_GROUND")
+		(at 49.53 35.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8aea7f45-e0cd-4af0-a7dc-c42a11647042")
+		(property "Reference" "#PWR02"
+			(at 49.53 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 49.53 41.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 49.53 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 49.53 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 49.53 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin ""
+			(uuid "16324d20-3439-4929-9329-48bb051d8433")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "powerDristributionBoard-altium-import:GND_POWER_GROUND")
 		(at 203.2 109.22 0)
 		(unit 1)
 		(body_style 1)
