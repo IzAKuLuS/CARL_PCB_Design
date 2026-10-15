@@ -673,18 +673,10 @@
         "uuid": "d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR1",
     "variants": []
   },
   "sheets": [
-    [
-      "d5fc2ae9-f21d-48b0-bd61-912ade1f672f",
-      "Power_Schematic"
-    ],
-    [
-      "decf1042-8545-4374-a825-63213b68d513",
-      "Protection Circuit"
-    ],
     [
       "8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e",
       "26 to 12V(5A)"
@@ -696,6 +688,14 @@
     [
       "b82ebbb5-bc9d-4e10-ab51-9ca070da0d99",
       "12V to 3.3V(3A)"
+    ],
+    [
+      "d5fc2ae9-f21d-48b0-bd61-912ade1f672f",
+      "Power_Schematic"
+    ],
+    [
+      "decf1042-8545-4374-a825-63213b68d513",
+      "Protection Circuit"
     ]
   ],
   "text_variables": {},
