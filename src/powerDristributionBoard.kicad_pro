@@ -673,7 +673,7 @@
         "uuid": "d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
       }
     ],
-    "used_designators": "#PWR1-2",
+    "used_designators": "#PWR1-17,C45-70,D1,L2,M6-7,Net Tie1,R19-24,TVS3,U5",
     "variants": []
   },
   "sheets": [
@@ -692,6 +692,10 @@
     [
       "d5fc2ae9-f21d-48b0-bd61-912ade1f672f",
       "Power_Schematic"
+    ],
+    [
+      "9e209214-08f7-4ec4-a1a2-d041b20d7d07",
+      "26 to 12V(5A)1"
     ],
     [
       "decf1042-8545-4374-a825-63213b68d513",
