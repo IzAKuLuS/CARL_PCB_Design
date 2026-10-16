@@ -1112,15 +1112,35 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "THIS SENTENCE IS BEING USED AS A TEST"
+	(text "If you're reading this, that means my attempt to push updates into the repository was successful\n"
 		(exclude_from_sim no)
-		(at 86.868 45.72 0)
+		(at 121.158 26.416 0)
 		(effects
 			(font
 				(size 2.54 2.54)
 			)
 		)
 		(uuid "32e3cf80-fee9-41fa-b755-d838cfc71074")
+	)
+	(text "-Jonathan V"
+		(exclude_from_sim no)
+		(at 214.63 34.036 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "d60c916e-d3c3-4681-8e94-c4287d9ee583")
+	)
+	(text "P.S. Issac's the goat"
+		(exclude_from_sim no)
+		(at 251.714 181.356 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e01f8e12-43ae-40ca-89aa-fc684f8ef14c")
 	)
 	(junction
 		(at 229.87 129.54)
