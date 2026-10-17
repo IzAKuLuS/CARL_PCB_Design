@@ -1,0 +1,5 @@
+src/.history/
+.DS_Store
+src/.DS_Store
+src/*-backups/
+src/~*.lck
