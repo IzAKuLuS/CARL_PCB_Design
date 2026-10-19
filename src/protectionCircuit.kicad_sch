@@ -2330,7 +2330,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 119.38) (xy 38.1 111.76)
+			(xy 38.1 120.65) (xy 38.1 111.76)
 		)
 		(stroke
 			(width 0)
@@ -2940,7 +2940,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 127) (xy 38.1 132.08)
+			(xy 38.1 125.73) (xy 38.1 132.08)
 		)
 		(stroke
 			(width 0)
@@ -3127,231 +3127,6 @@
 		(uuid "f77bf6cc-d41c-4d9c-b762-bc90cc6048e8")
 	)
 	(symbol
-		(lib_id "Autonomous Vehicle Lab:CAP-NP-2")
-		(at 38.1 119.38 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "0437ffb3-931d-416a-8870-c27967500199")
-		(property "Reference" "Ctmr"
-			(at 40.386 124.206 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Capacitor 470nF +/-20% 25V 0603"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "powerDristributionBoard-import-fps:CAPC0603(1608)100_L"
-			(at 38.1 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.1 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Chip Capacitor, 470nF +/-20%, 25V, 0603, Thickness 1 mm"
-			(at 38.1 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "RIPPLE CURRENT (AC)" ""
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MAX OPERATING TEMPERATURE" "85°C"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "VOLTAGE RATING" "25V"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "PINS" "2"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "RIPPLE CURRENT" ""
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ROHS COMPLIANT" ""
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "TOLERANCE" "10%"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "CASE/PACKAGE" "0603"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MOUNTING TECHNOLOGY" "SMT"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "CAPACITOR TYPE" ""
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MIN OPERATING TEMPERATURE" "-55°C"
-			(at 35.814 118.872 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ALTIUM_VALUE" "68nf"
-			(at 40.386 126.746 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "24838d8f-df9b-4f77-b777-11e88befc18d")
-		)
-		(pin "2"
-			(uuid "70268fa1-663e-41f6-94ff-5c1338d84ef2")
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Ctmr")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 71.12 172.72 0)
 		(unit 1)
@@ -3428,6 +3203,88 @@
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
 					(reference "R_div4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 65.4718 23.9717 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a2c109d-5405-4645-bea5-084e96d580f9")
+		(property "Reference" "Ctmr3"
+			(at 68.0118 22.7079 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "68nf"
+			(at 68.0118 25.2479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 65.4718 23.9717 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 65.4718 23.9717 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 65.4718 23.9717 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0109cb91-6e54-4a7c-b97a-30a219eaca29")
+		)
+		(pin "2"
+			(uuid "ebd545ec-ddd1-4f33-8b71-c8af13b425e5")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Ctmr3")
 					(unit 1)
 				)
 			)
@@ -4457,6 +4314,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 32.3409 23.7886 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f6f9e23-39b2-4c34-9984-e6122b7691a5")
+		(property "Reference" "Ctmr1"
+			(at 34.8809 22.5248 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "68nf"
+			(at 34.8809 25.0648 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 32.3409 23.7886 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 32.3409 23.7886 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 32.3409 23.7886 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae42a8e4-647b-489b-92e0-c853b26061b8")
+		)
+		(pin "2"
+			(uuid "60bfe41e-3472-47d4-9815-176ce7c7f4c6")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Ctmr1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 220.98 73.66 0)
 		(unit 1)
@@ -4536,7 +4475,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 20.32 119.38 0)
+		(at 38.1 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4547,7 +4486,7 @@
 		(fields_autoplaced yes)
 		(uuid "5342a9e1-f5d1-42ad-9b97-5d8a9717b0ee")
 		(property "Reference" "Ctmr"
-			(at 22.86 118.1162 0)
+			(at 40.64 121.9262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4557,8 +4496,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
-			(at 22.86 120.6562 0)
+		(property "Value" "68nf"
+			(at 40.64 124.4662 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4569,7 +4508,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 20.32 119.38 0)
+			(at 38.1 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4580,7 +4519,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 20.32 119.38 0)
+			(at 38.1 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4591,7 +4530,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 20.32 119.38 0)
+			(at 38.1 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4996,6 +4935,88 @@
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
 					(reference "Cuv")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 47.8996 23.9717 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84d3d6bd-4f4a-4286-90e1-5b18bb841edf")
+		(property "Reference" "Ctmr2"
+			(at 50.4396 22.7079 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "68nf"
+			(at 50.4396 25.2479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 47.8996 23.9717 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 47.8996 23.9717 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 47.8996 23.9717 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ef7a6229-e29b-4b8b-aa46-a2abd9da07f6")
+		)
+		(pin "2"
+			(uuid "d2c68f3c-aa2e-42ba-b1da-5954f404f18e")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Ctmr2")
 					(unit 1)
 				)
 			)
@@ -5850,6 +5871,88 @@
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
 					(reference "R_div1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 86.36 24.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d3537b0d-1c1a-44aa-b7b9-4c510786074e")
+		(property "Reference" "Ctmr4"
+			(at 88.9 22.8662 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "68nf"
+			(at 88.9 25.4062 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 86.36 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 86.36 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "829eafd5-9344-4b02-bfba-e61c4206263c")
+		)
+		(pin "2"
+			(uuid "9de95ddd-71cb-4325-958a-adde88c5c1a7")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Ctmr4")
 					(unit 1)
 				)
 			)
