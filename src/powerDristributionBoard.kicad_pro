@@ -670,7 +670,7 @@
         "uuid": "d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
       }
     ],
-    "used_designators": "Ctmr1-5",
+    "used_designators": "#PWR34,C45,Ccs+1,Cscp1,Ctmr1-5",
     "variants": []
   },
   "sheets": [
