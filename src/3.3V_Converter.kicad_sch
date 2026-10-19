@@ -1222,6 +1222,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 151.13) (xy 160.02 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42049ff0-479d-445c-81a6-addb90cdba35")
+	)
+	(wire
+		(pts
 			(xy 137.16 113.03) (xy 185.42 113.03)
 		)
 		(stroke
@@ -1432,6 +1442,26 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 151.13) (xy 160.02 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aec2bca4-b590-42d1-b421-7d90f26e984d")
+	)
+	(wire
+		(pts
+			(xy 138.43 170.18) (xy 137.16 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9efe6bc-3214-4741-9596-8a90ad235d45")
+	)
+	(wire
+		(pts
 			(xy 132.08 102.87) (xy 137.16 102.87)
 		)
 		(stroke
@@ -1459,6 +1489,16 @@
 			(type default)
 		)
 		(uuid "c1aedda7-12d5-467b-84e6-e4f5cb039b25")
+	)
+	(wire
+		(pts
+			(xy 160.02 165.1) (xy 138.43 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c58af938-645b-47d3-a38a-b0befa0cf433")
 	)
 	(wire
 		(pts
@@ -1569,6 +1609,16 @@
 			(type default)
 		)
 		(uuid "e420c080-1ca0-421f-9c36-d7f7d2a2bbec")
+	)
+	(wire
+		(pts
+			(xy 138.43 165.1) (xy 138.43 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f47aee-c82b-42ab-817b-fe91b3ca6e06")
 	)
 	(wire
 		(pts
@@ -1778,6 +1828,12 @@
 			(uuid "0407a078-d0f4-45b1-8eef-87a3634c5ff5")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C28")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C28")
@@ -1856,6 +1912,12 @@
 			(uuid "686614a6-58cc-427c-ab56-2b4b31c4f5a9")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "#PWR026")
@@ -1938,9 +2000,93 @@
 			(uuid "c27cfb84-73c3-4f69-bc41-0a1e58baa59b")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "R10")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 123.19 151.13 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2568654c-293e-4c3c-8a98-3dfdd0599672")
+		(property "Reference" "#PWR01"
+			(at 123.19 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 123.19 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c7a07f4f-f096-4360-a09f-52c5d8cec51a")
+		)
+		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2018,6 +2164,12 @@
 			(uuid "eacbd5bb-e306-4576-b270-ab2d5314eaf2")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C30")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C30")
@@ -2100,6 +2252,12 @@
 			(uuid "37cbdebf-78fd-4406-a9ee-c5993ef072f1")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C32")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C32")
@@ -2202,6 +2360,12 @@
 			(uuid "c887b3e6-dd4f-4a7c-94e6-1e9df31f3b8f")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "U4")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "U4")
@@ -2284,6 +2448,12 @@
 			(uuid "538cf325-2900-4bab-ada6-bd91897a4dff")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C25")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C25")
@@ -2366,6 +2536,12 @@
 			(uuid "d994ecda-b502-4b39-b098-0216b1dee085")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C34")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C34")
@@ -2448,6 +2624,12 @@
 			(uuid "37cd6670-acf8-4453-815d-9807c0dc6bd0")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C31")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C31")
@@ -2529,6 +2711,12 @@
 			(uuid "f70b2266-d14f-48b9-8adf-42582b55b480")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "L?")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "L?")
@@ -2611,6 +2799,12 @@
 			(uuid "83cfcfa8-08bb-4a95-afd6-5e9fa038bb6f")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C26")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C26")
@@ -2693,9 +2887,97 @@
 			(uuid "5c0a449d-5717-402c-b84c-2643be71d4a7")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C33")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 137.16 177.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b657c7cd-6910-4a95-8e99-de195b0e4628")
+		(property "Reference" "R2"
+			(at 139.7 176.5299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R_Small_US"
+			(at 139.7 179.0699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 137.16 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "caec219e-f595-4a9d-a575-e925276171d2")
+		)
+		(pin "1"
+			(uuid "647c10e1-d005-4307-a992-b1c560c570c1")
+		)
+		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -2775,6 +3057,12 @@
 			(uuid "9c0dc262-697b-44d9-8246-f9f89b2ca637")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C29")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C29")
@@ -2857,6 +3145,12 @@
 			(uuid "32f12a41-7902-4f35-9ef8-bf42e72f42e1")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C36")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C36")
@@ -2939,6 +3233,12 @@
 			(uuid "7b6d45dc-bf52-4916-8ba6-c758f596538d")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "R11")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "R11")
@@ -3021,6 +3321,12 @@
 			(uuid "9476a7d2-f4f5-4592-8d49-fb9cb69f83ed")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C27")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C27")
@@ -3103,6 +3409,12 @@
 			(uuid "7499338a-fa1d-4014-af10-5771150cb936")
 		)
 		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "C35")
+					(unit 1)
+				)
+			)
 			(project "powerDristributionBoard"
 				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C35")
@@ -3111,4 +3423,92 @@
 			)
 		)
 	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 137.16 172.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e10fcc6a-7a13-4d6b-b99b-530469f66d21")
+		(property "Reference" "R1"
+			(at 139.7 171.4499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "R_Small_US"
+			(at 139.7 173.9899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 137.16 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5ae1dd98-56ff-4508-9b2f-000cb26e05fc")
+		)
+		(pin "2"
+			(uuid "114c0e61-283d-4e98-85f9-8ada9e325688")
+		)
+		(instances
+			(project "3.3V_Converter"
+				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
 )
