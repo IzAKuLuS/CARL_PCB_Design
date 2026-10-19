@@ -819,7 +819,7 @@
 	)
 	(text "Susumu Co LtdRG1608P-303-B-T5"
 		(exclude_from_sim no)
-		(at 101.6 71.12 0)
+		(at 68.58 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
