@@ -173,7 +173,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -185,7 +184,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -197,7 +195,6 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
-          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -673,7 +670,7 @@
         "uuid": "d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
       }
     ],
-    "used_designators": "D3-5",
+    "used_designators": "R_div2,R_div4-5,F2-5,Cvin1,C26-29,C33-35,C40,C45,D3-8,#PWR15-33,R7,R9,R11,R17-18",
     "variants": []
   },
   "sheets": [
