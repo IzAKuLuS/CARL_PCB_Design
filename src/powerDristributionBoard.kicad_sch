@@ -937,12 +937,6 @@
 		(uuid "2d0ab2b5-effa-45d7-ae35-eb779afa082f")
 	)
 	(junction
-		(at 229.87 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "34e5216f-5a7a-475f-a9e8-eaed9e9b3d69")
-	)
-	(junction
 		(at 80.01 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -999,16 +993,6 @@
 			(type default)
 		)
 		(uuid "02509511-3dcf-4a0d-8507-f6d729573e3d")
-	)
-	(wire
-		(pts
-			(xy 229.87 129.54) (xy 240.03 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "039908d8-d949-4b71-9289-5b5c2caed860")
 	)
 	(wire
 		(pts
@@ -1282,7 +1266,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 129.54) (xy 229.87 139.7)
+			(xy 229.87 129.54) (xy 229.87 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1372,6 +1356,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 142.24) (xy 229.87 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb90bd67-4f0c-42ea-9042-72037ffb0f38")
+	)
+	(wire
+		(pts
 			(xy 194.31 91.44) (xy 181.61 91.44)
 		)
 		(stroke
@@ -1452,7 +1446,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 129.54) (xy 214.63 129.54)
+			(xy 214.63 129.54) (xy 229.87 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1519,16 +1513,6 @@
 			(type default)
 		)
 		(uuid "fb2be91e-934f-4bc1-8fe0-0932bf32af74")
-	)
-	(wire
-		(pts
-			(xy 229.87 152.4) (xy 229.87 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fcf04065-6580-4233-8619-c4abb1149db7")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -2086,7 +2070,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Zener")
-		(at 229.87 143.51 270)
+		(at 229.87 138.43 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2097,7 +2081,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c8db400-54ff-4f1d-a2ec-697f96f76297")
 		(property "Reference" "D8"
-			(at 232.41 142.2399 90)
+			(at 232.41 137.1599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2108,7 +2092,7 @@
 			)
 		)
 		(property "Value" "ESD"
-			(at 232.41 144.7799 90)
+			(at 232.41 139.6999 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2119,7 +2103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 229.87 143.51 0)
+			(at 229.87 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2130,7 +2114,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 229.87 143.51 0)
+			(at 229.87 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2141,7 +2125,7 @@
 			)
 		)
 		(property "Description" "Zener diode"
-			(at 229.87 143.51 0)
+			(at 229.87 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
