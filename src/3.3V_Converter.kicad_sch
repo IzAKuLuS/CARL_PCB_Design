@@ -2090,6 +2090,12 @@
 					(unit 1)
 				)
 			)
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2981,6 +2987,12 @@
 					(unit 1)
 				)
 			)
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
+					(reference "R2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3499,6 +3511,12 @@
 		(instances
 			(project "3.3V_Converter"
 				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project "powerDristributionBoard"
+				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "R1")
 					(unit 1)
 				)
