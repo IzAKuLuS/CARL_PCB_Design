@@ -5337,6 +5337,165 @@
 		)
 	)
 	(symbol
+		(lib_id "Schlib1:CSD19534Q5A")
+		(at 217.17 21.59 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3b13ed74-4678-4ac7-976a-42dd8af0c440")
+		(property "Reference" "M6"
+			(at 224.79 21.59 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CSD19534Q5A"
+			(at 224.79 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
+			(at 217.17 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100-V, N channel NexFETâ„¢ power MOSFET, single SON 5 mm x 6 mm, 15.1 mOhm 8-VSONP -55 to 150"
+			(at 217.17 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COPYRIGHT" "Copyright (C) 2026 Ultra Librarian. All rights reserved."
+			(at 217.17 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MANUFACTURER_NAME" "Texas Instruments"
+			(at 217.17 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CSD19534Q5A"
+			(at 217.17 21.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "REFDES" "RefDes"
+			(at 237.49 8.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "TYPE" "Type"
+			(at 237.49 11.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "4"
+			(uuid "ae4dcbc1-0ba2-43ae-8388-a3266d36cc7b")
+		)
+		(pin "1"
+			(uuid "c7799cf3-e124-4fad-b8cb-bca7a9a23346")
+		)
+		(pin "2"
+			(uuid "adabaa77-dc34-4f7a-b43e-933e76a70132")
+		)
+		(pin "3"
+			(uuid "5c65e94d-90c1-47bf-b624-dbdf337f7f6c")
+		)
+		(pin "5"
+			(uuid "2ef86b9d-4303-44a2-a75e-386fdb25a2c4")
+		)
+		(pin "6"
+			(uuid "33b819f3-12fc-4769-bf77-f1cfe50e9453")
+		)
+		(pin "7"
+			(uuid "f9e9d332-b677-468e-a02b-4760a498d0da")
+		)
+		(pin "8"
+			(uuid "14872b64-8cf9-476c-9fcf-9e96cdcd6769")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
+					(reference "M6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Schlib1:LM5190RGYR (20V-50V)")
 		(at 45.72 152.4 0)
 		(unit 1)
@@ -7174,6 +7333,165 @@
 		)
 	)
 	(symbol
+		(lib_id "Schlib1:CSD19534Q5A")
+		(at 217.17 46.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9d5bde83-8760-4f3a-9b88-4ccf7e93fa3d")
+		(property "Reference" "M7"
+			(at 224.79 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CSD19534Q5A"
+			(at 224.79 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
+			(at 217.17 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100-V, N channel NexFETâ„¢ power MOSFET, single SON 5 mm x 6 mm, 15.1 mOhm 8-VSONP -55 to 150"
+			(at 217.17 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COPYRIGHT" "Copyright (C) 2026 Ultra Librarian. All rights reserved."
+			(at 217.17 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MANUFACTURER_NAME" "Texas Instruments"
+			(at 217.17 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CSD19534Q5A"
+			(at 217.17 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "REFDES" "RefDes"
+			(at 237.49 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "TYPE" "Type"
+			(at 237.49 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "4"
+			(uuid "8bb49075-a7ac-41a9-8d80-52bb7696f6da")
+		)
+		(pin "1"
+			(uuid "d898742d-846f-4cb9-9f17-339544525ee3")
+		)
+		(pin "2"
+			(uuid "8d249e5c-f596-4c1b-b722-fa7fd753a1ac")
+		)
+		(pin "3"
+			(uuid "6416f16e-ff9c-479c-a193-efc7ad2a51ea")
+		)
+		(pin "5"
+			(uuid "bf118075-dde8-4d44-9b24-865e9dd8c7a5")
+		)
+		(pin "6"
+			(uuid "ae28ec29-21ba-456d-b6ac-0c36d093742b")
+		)
+		(pin "7"
+			(uuid "526c3d78-3a5d-4b73-8338-81e39777da56")
+		)
+		(pin "8"
+			(uuid "4bb86657-c369-4d7e-b324-9f1e75ec2e50")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
+					(reference "M7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 127 172.72 0)
 		(unit 1)
@@ -7991,6 +8309,165 @@
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Schlib1:CSD19534Q5A")
+		(at 256.54 38.1 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d9667d91-da83-4f7d-9f35-10668d1f03c5")
+		(property "Reference" "M8"
+			(at 264.16 38.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CSD19534Q5A"
+			(at 264.16 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
+			(at 256.54 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "100-V, N channel NexFETâ„¢ power MOSFET, single SON 5 mm x 6 mm, 15.1 mOhm 8-VSONP -55 to 150"
+			(at 256.54 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "COPYRIGHT" "Copyright (C) 2026 Ultra Librarian. All rights reserved."
+			(at 256.54 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MANUFACTURER_NAME" "Texas Instruments"
+			(at 256.54 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "MANUFACTURER_PART_NUMBER" "CSD19534Q5A"
+			(at 256.54 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "REFDES" "RefDes"
+			(at 276.86 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "TYPE" "Type"
+			(at 276.86 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(pin "4"
+			(uuid "bab0f6d3-85f2-4e0f-a30c-85e3a52157c1")
+		)
+		(pin "1"
+			(uuid "524533c3-c9ee-414f-aa3d-d5eb7d470dee")
+		)
+		(pin "2"
+			(uuid "4c8ca165-9c3d-41f7-a80c-2a8450b1b010")
+		)
+		(pin "3"
+			(uuid "edbc431c-2985-489c-90d1-26aa64b2a93a")
+		)
+		(pin "5"
+			(uuid "d86f59db-b3f9-4869-928f-c06039a8097e")
+		)
+		(pin "6"
+			(uuid "433599a3-30c8-4be7-8c2c-1288a66a1b5c")
+		)
+		(pin "7"
+			(uuid "907fade9-633c-43d9-bcd0-a25ec65106a5")
+		)
+		(pin "8"
+			(uuid "ff4d4007-0109-43c0-8d3a-f75c84161305")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
+					(reference "M8")
 					(unit 1)
 				)
 			)
