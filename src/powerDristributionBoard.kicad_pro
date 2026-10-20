@@ -637,11 +637,7 @@
         "uuid": "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
       }
     ],
-<<<<<<< HEAD
-    "used_designators": "#PWR35-39,C45-52,U5",
-=======
-    "used_designators": "M3,M6-8,U5",
->>>>>>> refs/remotes/origin/powerDistribution
+    "used_designators": "#PWR35-39,C32-36,C45-52,U5",
     "variants": []
   },
   "sheets": [
