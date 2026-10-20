@@ -821,12 +821,15 @@
 		(uuid "03e9961f-a89c-4ccb-a274-aea8e2a300ed")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 111.76 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0c143f26-8443-46f1-bca9-8dd153a8af44")
 	)
 	(junction
+=======
+>>>>>>> refs/remotes/origin/powerDistribution
 		(at 63.5 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -845,12 +848,15 @@
 		(uuid "1e87bb78-a403-43c8-8972-1cbfdb97a5f2")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 101.6 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "21ccd271-2e4c-4b02-a3e9-2d733e52e948")
 	)
 	(junction
+=======
+>>>>>>> refs/remotes/origin/powerDistribution
 		(at 175.26 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -941,12 +947,15 @@
 		(uuid "86bbc5a0-f912-4e50-ab60-9d1fd127ee5f")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 91.44 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "876082f8-4ab1-4509-9c55-6fbcc508d237")
 	)
 	(junction
+=======
+>>>>>>> refs/remotes/origin/powerDistribution
 		(at 215.9 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1007,12 +1016,15 @@
 		(uuid "dda9859e-e62e-4302-829a-ccd48c92a983")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 121.92 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e085836e-19b3-4286-8920-d924e431c777")
 	)
 	(junction
+=======
+>>>>>>> refs/remotes/origin/powerDistribution
 		(at 50.8 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
