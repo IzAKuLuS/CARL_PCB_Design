@@ -3147,7 +3147,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "R_div4")
 					(unit 1)
 				)
@@ -3306,7 +3306,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "M1")
 					(unit 1)
 				)
@@ -3325,7 +3325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ee9c895-19e2-4bda-b46c-a9d52b40ed21")
-		(property "Reference" "Cvs"
+		(property "Reference" "Cvs1"
 			(at 149.86 118.1162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3388,8 +3388,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Cvs")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Cvs1")
 					(unit 1)
 				)
 			)
@@ -3407,7 +3407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20025314-a09c-4443-95ca-8e96ea351a33")
-		(property "Reference" "Ccap"
+		(property "Reference" "Ccap1"
 			(at 134.62 67.3035 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3470,8 +3470,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Ccap")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Ccap1")
 					(unit 1)
 				)
 			)
@@ -3629,7 +3629,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "M2")
 					(unit 1)
 				)
@@ -3707,7 +3707,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "#PWR033")
 					(unit 1)
 				)
@@ -3785,7 +3785,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "#PWR031")
 					(unit 1)
 				)
@@ -3804,7 +3804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5342a9e1-f5d1-42ad-9b97-5d8a9717b0ee")
-		(property "Reference" "Ctmr"
+		(property "Reference" "Ctmr1"
 			(at 45.72 114.3062 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3867,8 +3867,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Ctmr")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Ctmr1")
 					(unit 1)
 				)
 			)
@@ -3949,7 +3949,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "R_div2")
 					(unit 1)
 				)
@@ -3968,7 +3968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d0bdd2d-30e6-4100-8e80-01776b876909")
-		(property "Reference" "C_dvdt"
+		(property "Reference" "C_dvdt1"
 			(at 185.42 118.1162 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4031,8 +4031,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "C_dvdt")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "C_dvdt1")
 					(unit 1)
 				)
 			)
@@ -4109,7 +4109,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "#PWR030")
 					(unit 1)
 				)
@@ -4187,7 +4187,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "#PWR027")
 					(unit 1)
 				)
@@ -4206,7 +4206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "877f6a58-195a-4c3c-97a1-4547941c935c")
-		(property "Reference" "Cscp"
+		(property "Reference" "Cscp1"
 			(at 173.9963 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4267,8 +4267,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Cscp")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Cscp1")
 					(unit 1)
 				)
 			)
@@ -4286,7 +4286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91e5b310-f9ae-4e3f-8efd-78b76d4cef5b")
-		(property "Reference" "Cuv"
+		(property "Reference" "Cuv1"
 			(at 91.44 163.8362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4349,8 +4349,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Cuv")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Cuv1")
 					(unit 1)
 				)
 			)
@@ -4368,7 +4368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92930aa1-0589-407c-b0e7-4a3166f1d7c2")
-		(property "Reference" "Rset"
+		(property "Reference" "Rset1"
 			(at 167.64 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4431,8 +4431,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Rset")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Rset1")
 					(unit 1)
 				)
 			)
@@ -4449,7 +4449,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ff619fd-f088-4136-a7c1-60efebd8ce57")
-		(property "Reference" "R?"
+		(property "Reference" "R18"
 			(at 169.926 49.276 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4572,8 +4572,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "R?")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -4591,7 +4591,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1b07e26-1c4c-4d7f-9d56-f7fd0d47e739")
-		(property "Reference" "R_ISCP"
+		(property "Reference" "R_ISCP1"
 			(at 156.21 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4654,8 +4654,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "R_ISCP")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "R_ISCP1")
 					(unit 1)
 				)
 			)
@@ -4673,7 +4673,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab3f791b-4998-4fd9-85a3-14b3abf9bb87")
-		(property "Reference" "Cvin"
+		(property "Reference" "Cvin1"
 			(at 43.18 57.1562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4736,8 +4736,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Cvin")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Cvin1")
 					(unit 1)
 				)
 			)
@@ -4755,7 +4755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b394cfb4-4832-4833-a427-076f0c1708c6")
-		(property "Reference" "Cout"
+		(property "Reference" "Cout1"
 			(at 229.87 56.5149 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4818,8 +4818,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Cout")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Cout1")
 					(unit 1)
 				)
 			)
@@ -4837,7 +4837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b50a8480-bae9-47e3-91d7-07e03aebe394")
-		(property "Reference" "R_ILIM"
+		(property "Reference" "R_ILIM1"
 			(at 63.5 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4900,8 +4900,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "R_ILIM")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "R_ILIM1")
 					(unit 1)
 				)
 			)
@@ -4982,7 +4982,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "R_div1")
 					(unit 1)
 				)
@@ -5001,7 +5001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db5a05c6-e772-4116-93c4-89cb1b679cb0")
-		(property "Reference" "Ccs+"
+		(property "Reference" "Ccs+1"
 			(at 173.9963 72.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5062,8 +5062,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Ccs+")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "Ccs+1")
 					(unit 1)
 				)
 			)
@@ -5140,7 +5140,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "#PWR032")
 					(unit 1)
 				)
@@ -5350,7 +5350,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "U1")
 					(unit 1)
 				)
@@ -5428,7 +5428,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "#PWR028")
 					(unit 1)
 				)
@@ -5510,7 +5510,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "R_div3")
 					(unit 1)
 				)
@@ -5588,7 +5588,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/decf1042-8545-4374-a825-63213b68d513"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "#PWR029")
 					(unit 1)
 				)

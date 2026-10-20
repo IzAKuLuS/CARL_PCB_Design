@@ -1643,7 +1643,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "R16")
 					(unit 1)
 				)
@@ -1725,7 +1725,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "C37")
 					(unit 1)
 				)
@@ -1803,7 +1803,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "#PWR016")
 					(unit 1)
 				)
@@ -1896,7 +1896,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "U3")
 					(unit 1)
 				)
@@ -1978,7 +1978,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "C41")
 					(unit 1)
 				)
@@ -2058,7 +2058,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "R14")
 					(unit 1)
 				)
@@ -2140,7 +2140,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "C40")
 					(unit 1)
 				)
@@ -2222,7 +2222,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "C42")
 					(unit 1)
 				)
@@ -2304,7 +2304,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "C39")
 					(unit 1)
 				)
@@ -2386,7 +2386,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "R12")
 					(unit 1)
 				)
@@ -2404,7 +2404,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae2ab834-32cb-4496-88c2-ddefd020be83")
-		(property "Reference" "L?"
+		(property "Reference" "L2"
 			(at 129.54 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2611,8 +2611,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "L?")
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -2693,7 +2693,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "R15")
 					(unit 1)
 				)
@@ -2775,7 +2775,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "R13")
 					(unit 1)
 				)
@@ -2857,7 +2857,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
 					(reference "C38")
 					(unit 1)
 				)

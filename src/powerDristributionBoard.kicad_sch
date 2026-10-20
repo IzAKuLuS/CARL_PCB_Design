@@ -1096,16 +1096,6 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 111.76) (xy 95.25 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "26987e66-5faf-4db4-af94-ff09c0f1f317")
-	)
-	(wire
-		(pts
 			(xy 214.63 129.54) (xy 201.93 129.54)
 		)
 		(stroke
@@ -1386,6 +1376,16 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 109.22) (xy 95.25 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d47b6a09-aa61-4ca6-9f96-d980a3e0cc3f")
+	)
+	(wire
+		(pts
 			(xy 212.09 91.44) (xy 229.87 91.44)
 		)
 		(stroke
@@ -1595,7 +1595,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR025")
 					(unit 1)
 				)
@@ -1604,7 +1604,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 95.25 111.76 0)
+		(at 95.25 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1615,7 +1615,7 @@
 		(fields_autoplaced yes)
 		(uuid "2041f7c4-d402-4d95-bb7c-caf3d69b97e0")
 		(property "Reference" "#PWR01"
-			(at 95.25 118.11 0)
+			(at 95.25 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1626,7 +1626,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 116.84 0)
+			(at 95.25 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1636,7 +1636,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 111.76 0)
+			(at 95.25 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1647,7 +1647,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 111.76 0)
+			(at 95.25 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1658,7 +1658,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 111.76 0)
+			(at 95.25 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1673,7 +1673,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR01")
 					(unit 1)
 				)
@@ -1751,7 +1751,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR020")
 					(unit 1)
 				)
@@ -1833,7 +1833,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "R7")
 					(unit 1)
 				)
@@ -1911,7 +1911,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR015")
 					(unit 1)
 				)
@@ -1993,7 +1993,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "R9")
 					(unit 1)
 				)
@@ -2071,7 +2071,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR022")
 					(unit 1)
 				)
@@ -2153,7 +2153,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D8")
 					(unit 1)
 				)
@@ -2233,7 +2233,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "F1")
 					(unit 1)
 				)
@@ -2311,7 +2311,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR02")
 					(unit 1)
 				)
@@ -2389,7 +2389,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR019")
 					(unit 1)
 				)
@@ -2482,7 +2482,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D5")
 					(unit 1)
 				)
@@ -2560,7 +2560,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR021")
 					(unit 1)
 				)
@@ -2642,7 +2642,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D6")
 					(unit 1)
 				)
@@ -2724,7 +2724,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D1")
 					(unit 1)
 				)
@@ -2802,7 +2802,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR017")
 					(unit 1)
 				)
@@ -2882,7 +2882,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "F4")
 					(unit 1)
 				)
@@ -2975,7 +2975,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D2")
 					(unit 1)
 				)
@@ -3057,7 +3057,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "R1")
 					(unit 1)
 				)
@@ -3150,7 +3150,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D4")
 					(unit 1)
 				)
@@ -3230,7 +3230,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "F3")
 					(unit 1)
 				)
@@ -3312,7 +3312,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D7")
 					(unit 1)
 				)
@@ -3405,7 +3405,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "D3")
 					(unit 1)
 				)
@@ -3483,7 +3483,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR018")
 					(unit 1)
 				)
@@ -3561,7 +3561,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR034")
 					(unit 1)
 				)
@@ -3639,7 +3639,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR023")
 					(unit 1)
 				)
@@ -3721,86 +3721,8 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "R17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 101.6 130.81 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c8fa594c-17d5-4734-b224-d4c6313ac380")
-		(property "Reference" "#PWR034"
-			(at 101.6 137.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 101.6 135.89 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 101.6 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "63de7742-16b4-4b68-afeb-20753b4d0a4b")
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
-					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -3879,7 +3801,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "F2")
 					(unit 1)
 				)
@@ -3957,7 +3879,7 @@
 		)
 		(instances
 			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
 					(reference "#PWR024")
 					(unit 1)
 				)
@@ -4043,13 +3965,6 @@
 				(justify right)
 			)
 		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
-					(page "1")
-				)
-			)
-		)
 	)
 	(sheet
 		(at 161.29 127)
@@ -4130,13 +4045,6 @@
 				(justify right)
 			)
 		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
-					(page "3")
-				)
-			)
-		)
 	)
 	(sheet
 		(at 41.91 86.36)
@@ -4194,13 +4102,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
-					(page "#")
-				)
 			)
 		)
 	)
@@ -4281,13 +4182,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/d5fc2ae9-f21d-48b0-bd61-912ade1f672f"
-					(page "2")
-				)
 			)
 		)
 	)
