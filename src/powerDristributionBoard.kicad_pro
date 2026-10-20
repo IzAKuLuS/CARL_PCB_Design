@@ -637,11 +637,7 @@
         "uuid": "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
       }
     ],
-<<<<<<< HEAD
-    "used_designators": "#PWR35-39,U5",
-=======
-    "used_designators": "M3,U5",
->>>>>>> 57ed775ae11208b858ef1959fde9deb245e51330
+    "used_designators": "#PWR35-39,C45-47,U5",
     "variants": []
   },
   "sheets": [
