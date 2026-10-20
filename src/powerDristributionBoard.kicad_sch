@@ -3965,6 +3965,13 @@
 				(justify right)
 			)
 		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "2")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 161.29 127)
@@ -4045,6 +4052,13 @@
 				(justify right)
 			)
 		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "5")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 41.91 86.36)
@@ -4102,6 +4116,13 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "1")
+				)
 			)
 		)
 	)
@@ -4182,6 +4203,13 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "3")
+				)
 			)
 		)
 	)
