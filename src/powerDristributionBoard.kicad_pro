@@ -453,7 +453,6 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
-      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -504,8 +503,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": {},
-    "netclass_assignments": {},
+    "net_colors": null,
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -514,7 +513,6 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -637,10 +635,14 @@
         "uuid": "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
       }
     ],
-    "used_designators": "#PWR35-39,C32-36,C45-52,U5",
+    "used_designators": "U5",
     "variants": []
   },
   "sheets": [
+    [
+      "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03",
+      "Root"
+    ],
     [
       "decf1042-8545-4374-a825-63213b68d513",
       "Protection Circuit"
@@ -652,10 +654,6 @@
     [
       "f7fc7c23-3a4e-412b-b14d-71f85b15285a",
       "12V to 5V(3A)"
-    ],
-    [
-      "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03",
-      "Root"
     ],
     [
       "b82ebbb5-bc9d-4e10-ab51-9ca070da0d99",

@@ -444,6 +444,484 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "EasyEDA:LM5190RGYR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 0 30.48 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LM5190RGYR"
+				(at 0 -30.48 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "EasyEDA:QFN-19_L4.5-W3.5-P0.50-BL-EP_TI_RGY"
+				(at 0 -33.02 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C43351172.pdf"
+				(at 0 -35.56 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TI(德州仪器)"
+				(at 0 -38.1 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "LM5190RGYR"
+				(at 0 -40.64 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC Part" "C43351172"
+				(at 0 -43.18 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "LM5190RGYR_0_1"
+				(rectangle
+					(start -12.7 27.94)
+					(end 12.7 -27.94)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -11.43 26.67)
+					(radius 0.38)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 5.08 0)
+					(length 2.54)
+					(name "ISET"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -20.32 0)
+					(length 2.54)
+					(name "RT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 22.86 0)
+					(length 2.54)
+					(name "COMP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 15.24 0)
+					(length 2.54)
+					(name "FB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.24 -15.24 180)
+					(length 2.54)
+					(name "AGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -12.7 0)
+					(length 2.54)
+					(name "IMON/ILIM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.24 25.4 180)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.24 -17.78 180)
+					(length 2.54)
+					(name "PGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -15.24 0)
+					(length 2.54)
+					(name "LO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.24 17.78 180)
+					(length 2.54)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -10.16 0)
+					(length 2.54)
+					(name "HO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -22.86 0)
+					(length 2.54)
+					(name "SW"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 25.4 0)
+					(length 2.54)
+					(name "CBOOT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -5.08 0)
+					(length 2.54)
+					(name "BIAS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -17.78 0)
+					(length 2.54)
+					(name "PGOOD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 12.7 0)
+					(length 2.54)
+					(name "FPWM/SYNC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -7.62 0)
+					(length 2.54)
+					(name "EN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 2.54 0)
+					(length 2.54)
+					(name "ISNS+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -15.24 -25.4 0)
+					(length 2.54)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 15.24 -25.4 180)
+					(length 2.54)
+					(name "EP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Schlib1:CSD19534Q5A"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5337,165 +5815,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Schlib1:CSD19534Q5A")
-		(at 217.17 21.59 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3b13ed74-4678-4ac7-976a-42dd8af0c440")
-		(property "Reference" "M6"
-			(at 224.79 21.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CSD19534Q5A"
-			(at 224.79 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
-			(at 217.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100-V, N channel NexFETâ„¢ power MOSFET, single SON 5 mm x 6 mm, 15.1 mOhm 8-VSONP -55 to 150"
-			(at 217.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "COPYRIGHT" "Copyright (C) 2026 Ultra Librarian. All rights reserved."
-			(at 217.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MANUFACTURER_NAME" "Texas Instruments"
-			(at 217.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CSD19534Q5A"
-			(at 217.17 21.59 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "REFDES" "RefDes"
-			(at 237.49 8.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "TYPE" "Type"
-			(at 237.49 11.43 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "4"
-			(uuid "ae4dcbc1-0ba2-43ae-8388-a3266d36cc7b")
-		)
-		(pin "1"
-			(uuid "c7799cf3-e124-4fad-b8cb-bca7a9a23346")
-		)
-		(pin "2"
-			(uuid "adabaa77-dc34-4f7a-b43e-933e76a70132")
-		)
-		(pin "3"
-			(uuid "5c65e94d-90c1-47bf-b624-dbdf337f7f6c")
-		)
-		(pin "5"
-			(uuid "2ef86b9d-4303-44a2-a75e-386fdb25a2c4")
-		)
-		(pin "6"
-			(uuid "33b819f3-12fc-4769-bf77-f1cfe50e9453")
-		)
-		(pin "7"
-			(uuid "f9e9d332-b677-468e-a02b-4760a498d0da")
-		)
-		(pin "8"
-			(uuid "14872b64-8cf9-476c-9fcf-9e96cdcd6769")
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
-					(reference "M6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Schlib1:LM5190RGYR (20V-50V)")
 		(at 45.72 152.4 0)
 		(unit 1)
@@ -7333,165 +7652,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Schlib1:CSD19534Q5A")
-		(at 217.17 46.99 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9d5bde83-8760-4f3a-9b88-4ccf7e93fa3d")
-		(property "Reference" "M7"
-			(at 224.79 46.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CSD19534Q5A"
-			(at 224.79 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
-			(at 217.17 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 217.17 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "100-V, N channel NexFETâ„¢ power MOSFET, single SON 5 mm x 6 mm, 15.1 mOhm 8-VSONP -55 to 150"
-			(at 217.17 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "COPYRIGHT" "Copyright (C) 2026 Ultra Librarian. All rights reserved."
-			(at 217.17 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MANUFACTURER_NAME" "Texas Instruments"
-			(at 217.17 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "CSD19534Q5A"
-			(at 217.17 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "REFDES" "RefDes"
-			(at 237.49 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "TYPE" "Type"
-			(at 237.49 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "4"
-			(uuid "8bb49075-a7ac-41a9-8d80-52bb7696f6da")
-		)
-		(pin "1"
-			(uuid "d898742d-846f-4cb9-9f17-339544525ee3")
-		)
-		(pin "2"
-			(uuid "8d249e5c-f596-4c1b-b722-fa7fd753a1ac")
-		)
-		(pin "3"
-			(uuid "6416f16e-ff9c-479c-a193-efc7ad2a51ea")
-		)
-		(pin "5"
-			(uuid "bf118075-dde8-4d44-9b24-865e9dd8c7a5")
-		)
-		(pin "6"
-			(uuid "ae28ec29-21ba-456d-b6ac-0c36d093742b")
-		)
-		(pin "7"
-			(uuid "526c3d78-3a5d-4b73-8338-81e39777da56")
-		)
-		(pin "8"
-			(uuid "4bb86657-c369-4d7e-b324-9f1e75ec2e50")
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
-					(reference "M7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 127 172.72 0)
 		(unit 1)
@@ -8315,8 +8475,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Schlib1:CSD19534Q5A")
-		(at 256.54 38.1 0)
+		(lib_id "EasyEDA:LM5190RGYR")
+		(at 222.25 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8324,31 +8484,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "d9667d91-da83-4f7d-9f35-10668d1f03c5")
-		(property "Reference" "M8"
-			(at 264.16 38.1 0)
+		(fields_autoplaced yes)
+		(uuid "e04408b6-5b0e-4453-9230-8d488ea9e5b1")
+		(property "Reference" "U5"
+			(at 222.25 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Value" "CSD19534Q5A"
-			(at 264.16 53.34 0)
+		(property "Value" "LM5190RGYR"
+			(at 222.25 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
-			(at 256.54 38.1 0)
+		(property "Footprint" "EasyEDA:QFN-19_L4.5-W3.5-P0.50-BL-EP_TI_RGY"
+			(at 222.25 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8358,8 +8517,8 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 256.54 38.1 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C43351172.pdf"
+			(at 222.25 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8369,8 +8528,8 @@
 				)
 			)
 		)
-		(property "Description" "100-V, N channel NexFETâ„¢ power MOSFET, single SON 5 mm x 6 mm, 15.1 mOhm 8-VSONP -55 to 150"
-			(at 256.54 38.1 0)
+		(property "Description" ""
+			(at 222.25 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8380,8 +8539,8 @@
 				)
 			)
 		)
-		(property "COPYRIGHT" "Copyright (C) 2026 Ultra Librarian. All rights reserved."
-			(at 256.54 38.1 0)
+		(property "Manufacturer" "TI(德州仪器)"
+			(at 222.25 95.25 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8389,11 +8548,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "MANUFACTURER_NAME" "Texas Instruments"
-			(at 256.54 38.1 0)
+		(property "MPN" "LM5190RGYR"
+			(at 222.25 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8401,11 +8559,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "MANUFACTURER_PART_NUMBER" "CSD19534Q5A"
-			(at 256.54 38.1 0)
+		(property "LCSC Part" "C43351172"
+			(at 222.25 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8413,61 +8570,72 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
-		)
-		(property "REFDES" "RefDes"
-			(at 276.86 25.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "TYPE" "Type"
-			(at 276.86 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "4"
-			(uuid "bab0f6d3-85f2-4e0f-a30c-85e3a52157c1")
-		)
-		(pin "1"
-			(uuid "524533c3-c9ee-414f-aa3d-d5eb7d470dee")
-		)
-		(pin "2"
-			(uuid "4c8ca165-9c3d-41f7-a80c-2a8450b1b010")
-		)
-		(pin "3"
-			(uuid "edbc431c-2985-489c-90d1-26aa64b2a93a")
-		)
-		(pin "5"
-			(uuid "d86f59db-b3f9-4869-928f-c06039a8097e")
-		)
-		(pin "6"
-			(uuid "433599a3-30c8-4be7-8c2c-1288a66a1b5c")
-		)
-		(pin "7"
-			(uuid "907fade9-633c-43d9-bcd0-a25ec65106a5")
 		)
 		(pin "8"
-			(uuid "ff4d4007-0109-43c0-8d3a-f75c84161305")
+			(uuid "b75d2490-1ab5-41ba-ad4a-528e87dfac28")
+		)
+		(pin "10"
+			(uuid "71c8d9aa-1873-4b37-a30d-d566ad2ba843")
+		)
+		(pin "2"
+			(uuid "bfe71b08-a0bb-4244-86c0-71f10ed7d182")
+		)
+		(pin "9"
+			(uuid "a0051bc4-9329-4530-b33f-af41977c86be")
+		)
+		(pin "4"
+			(uuid "330bb90e-618c-42c2-80db-501445d84ece")
+		)
+		(pin "6"
+			(uuid "8fd57157-69c1-44e7-8299-f1c4c6865f6e")
+		)
+		(pin "7"
+			(uuid "c841c791-d4b7-47c9-9d3c-c7da9d076e7c")
+		)
+		(pin "5"
+			(uuid "67190f05-4bc8-4155-b596-817c81795b25")
+		)
+		(pin "11"
+			(uuid "57ec7cb5-776e-44bd-9164-80993769be70")
+		)
+		(pin "12"
+			(uuid "a1988320-3a69-4200-822f-0aa4e470b14d")
+		)
+		(pin "13"
+			(uuid "97d0ce69-b5ad-4f33-b03b-12779ea6661b")
+		)
+		(pin "14"
+			(uuid "b0ca0e0a-16eb-4b34-bc71-ed8a77bf24de")
+		)
+		(pin "15"
+			(uuid "1d973143-cf29-4e7f-a99e-a7f94d1256af")
+		)
+		(pin "16"
+			(uuid "3bc1a4e1-374f-4a56-8fd8-ec697e51297f")
+		)
+		(pin "17"
+			(uuid "cac09a27-b8c0-4041-8e87-edf6384bdc4f")
+		)
+		(pin "18"
+			(uuid "b3229e80-1d72-4c50-a2ea-c7b4be157d89")
+		)
+		(pin "19"
+			(uuid "9c277cbf-a5ae-49a0-81d1-0202f26c420c")
+		)
+		(pin "20"
+			(uuid "02a73f52-b57f-416f-9342-cf21883757a5")
+		)
+		(pin "1"
+			(uuid "c895f1ae-cd1a-40cf-9bfa-1110e97a6523")
+		)
+		(pin "3"
+			(uuid "f7584a8d-3676-4ee5-b0fd-11d2197fc1da")
 		)
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
-					(reference "M8")
+					(reference "U5")
 					(unit 1)
 				)
 			)
