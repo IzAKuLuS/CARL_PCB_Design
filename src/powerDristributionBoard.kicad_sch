@@ -941,22 +941,34 @@
 		(uuid "2a551c2d-7b7f-4351-afc1-580ff1c4f3d6")
 	)
 	(junction
-		(at 95.25 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d0ab2b5-effa-45d7-ae35-eb779afa082f")
-	)
-	(junction
 		(at 212.09 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55b5fc1b-fd6b-4202-98af-df37c13c0937")
 	)
 	(junction
+		(at 229.87 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "595fab9a-852c-455f-ad2d-4954b2c4f075")
+	)
+	(junction
 		(at 189.23 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a243dc8-6e5a-4aa9-a3f8-dfdb015a2cf1")
+	)
+	(junction
+		(at 214.63 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b342f2b-aae8-4d99-ae0c-aba9b4ade033")
+	)
+	(junction
+		(at 85.09 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "812e12c0-b707-4a01-8c00-21fa438b282d")
 	)
 	(junction
 		(at 229.87 91.44)
@@ -1020,7 +1032,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 91.44) (xy 95.25 91.44)
+			(xy 74.93 91.44) (xy 85.09 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1040,7 +1052,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 93.98) (xy 95.25 91.44)
+			(xy 85.09 93.98) (xy 85.09 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1110,7 +1122,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 91.44) (xy 113.03 91.44)
+			(xy 85.09 91.44) (xy 113.03 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1160,7 +1172,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 91.44) (xy 66.04 91.44)
+			(xy 59.69 91.44) (xy 69.85 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1207,6 +1219,16 @@
 			(type default)
 		)
 		(uuid "78db0a04-07d7-40de-939c-03ba1c07ce21")
+	)
+	(wire
+		(pts
+			(xy 214.63 50.8) (xy 231.14 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b301983-36f4-4be8-bc51-efabc9b77ab1")
 	)
 	(wire
 		(pts
@@ -1340,7 +1362,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 109.22) (xy 95.25 113.03)
+			(xy 85.09 109.22) (xy 85.09 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1450,6 +1472,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 129.54) (xy 240.03 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecb354ce-5372-41af-b148-e7c7b9ccca58")
+	)
+	(wire
+		(pts
 			(xy 189.23 53.34) (xy 189.23 50.8)
 		)
 		(stroke
@@ -1460,7 +1492,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 101.6) (xy 95.25 99.06)
+			(xy 85.09 101.6) (xy 85.09 99.06)
 		)
 		(stroke
 			(width 0)
@@ -1568,7 +1600,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 95.25 113.03 0)
+		(at 85.09 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1579,7 +1611,7 @@
 		(fields_autoplaced yes)
 		(uuid "2041f7c4-d402-4d95-bb7c-caf3d69b97e0")
 		(property "Reference" "#PWR01"
-			(at 95.25 119.38 0)
+			(at 85.09 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1590,7 +1622,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 118.11 0)
+			(at 85.09 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1600,7 +1632,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 113.03 0)
+			(at 85.09 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1611,7 +1643,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 113.03 0)
+			(at 85.09 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1622,7 +1654,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 113.03 0)
+			(at 85.09 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2126,7 +2158,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
-		(at 68.58 91.44 0)
+		(at 72.39 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2137,7 +2169,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ffee349-bdb7-4cf5-a871-df15e860b23d")
 		(property "Reference" "F1"
-			(at 68.58 86.36 0)
+			(at 72.39 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2147,7 +2179,7 @@
 			)
 		)
 		(property "Value" "RTC"
-			(at 68.58 88.9 0)
+			(at 72.39 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2157,7 +2189,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 91.44 0)
+			(at 72.39 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2168,7 +2200,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 91.44 0)
+			(at 72.39 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2179,7 +2211,7 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
-			(at 68.58 91.44 0)
+			(at 72.39 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2695,7 +2727,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 95.25 105.41 90)
+		(at 85.09 105.41 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2706,7 +2738,7 @@
 		(fields_autoplaced yes)
 		(uuid "8565cd36-c6eb-4b76-974a-0bcc95379132")
 		(property "Reference" "D2"
-			(at 99.06 105.7274 90)
+			(at 88.9 105.7274 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2717,7 +2749,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 99.06 108.2674 90)
+			(at 88.9 108.2674 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2728,7 +2760,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 105.41 0)
+			(at 85.09 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2739,7 +2771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 105.41 0)
+			(at 85.09 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2750,7 +2782,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 95.25 105.41 0)
+			(at 85.09 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2761,7 +2793,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 95.25 105.41 0)
+			(at 85.09 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2788,7 +2820,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 95.25 96.52 0)
+		(at 85.09 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2799,7 +2831,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b7d7b67-05ed-4a94-973f-3dce3e431ab9")
 		(property "Reference" "R1"
-			(at 97.79 95.2499 0)
+			(at 87.63 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2810,7 +2842,7 @@
 			)
 		)
 		(property "Value" "Find Val"
-			(at 97.79 97.7899 0)
+			(at 87.63 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2821,7 +2853,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 96.52 0)
+			(at 85.09 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2832,7 +2864,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 96.52 0)
+			(at 85.09 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2843,7 +2875,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 95.25 96.52 0)
+			(at 85.09 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3704,7 +3736,7 @@
 			(color 128 0 0 1)
 		)
 		(fill
-			(color 128 255 128 1)
+			(color 0 0 0 0)
 		)
 		(uuid "8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e")
 		(property "Sheetname" "26 to 12V(5A)"
@@ -3769,6 +3801,13 @@
 				(justify right)
 			)
 		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 161.29 127)
@@ -3784,7 +3823,7 @@
 			(color 128 0 0 1)
 		)
 		(fill
-			(color 128 255 128 1)
+			(color 0 0 0 0)
 		)
 		(uuid "b82ebbb5-bc9d-4e10-ab51-9ca070da0d99")
 		(property "Sheetname" "12V to 3.3V(3A)"
@@ -3849,6 +3888,13 @@
 				(justify right)
 			)
 		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 41.91 86.36)
@@ -3863,7 +3909,7 @@
 			(color 128 0 0 1)
 		)
 		(fill
-			(color 128 255 128 1)
+			(color 0 0 0 0)
 		)
 		(uuid "decf1042-8545-4374-a825-63213b68d513")
 		(property "Sheetname" "Protection Circuit"
@@ -3908,6 +3954,13 @@
 				(justify right)
 			)
 		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "")
+				)
+			)
+		)
 	)
 	(sheet
 		(at 156.21 88.9)
@@ -3923,7 +3976,7 @@
 			(color 128 0 0 1)
 		)
 		(fill
-			(color 128 255 128 1)
+			(color 0 0 0 0)
 		)
 		(uuid "f7fc7c23-3a4e-412b-b14d-71f85b15285a")
 		(property "Sheetname" "12V to 5V(3A)"
@@ -3986,6 +4039,13 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
+					(page "")
+				)
 			)
 		)
 	)
