@@ -1,3 +1,10 @@
 (fp_lib_table
-	(version 7)
-	(
+  (version 7)
+  (lib
+    (name "PowerPCB_Footprints")
+    (type "KiCad")
+    (uri "${KIPRJMOD}/PowerPCB_Footprints.pretty")
+    (options "")
+    (descr "")
+  )
+)
