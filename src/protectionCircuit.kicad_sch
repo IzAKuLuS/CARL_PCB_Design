@@ -4445,7 +4445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ebebb34-3afd-4392-be16-3273d67eb3bb")
-		(property "Reference" "R_IMON"
+		(property "Reference" "R_IMON1"
 			(at 52.07 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4509,7 +4509,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
-					(reference "R_IMON")
+					(reference "R_IMON1")
 					(unit 1)
 				)
 			)
@@ -4765,7 +4765,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "877f6a58-195a-4c3c-97a1-4547941c935c")
-		(property "Reference" "Ciscp"
+		(property "Reference" "Ciscp1"
 			(at 185.4263 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4827,7 +4827,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Ciscp")
+					(reference "Ciscp1")
 					(unit 1)
 				)
 			)
@@ -5577,7 +5577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db5a05c6-e772-4116-93c4-89cb1b679cb0")
-		(property "Reference" "Ccs+"
+		(property "Reference" "Ccs+1"
 			(at 185.4263 72.39 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5639,7 +5639,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
-					(reference "Ccs+")
+					(reference "Ccs+1")
 					(unit 1)
 				)
 			)
