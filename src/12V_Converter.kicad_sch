@@ -1974,42 +1974,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 180.34 87.63)
-		(end 203.2 102.87)
-		(stroke
-			(width 0)
-			(type solid)
-			(color 255 39 32 1)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "4397e9d3-3d07-49b1-9c0f-073a309480cf")
-	)
-	(rectangle
-		(start 204.47 86.36)
-		(end 219.71 101.6)
-		(stroke
-			(width 0)
-			(type solid)
-			(color 255 39 32 1)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "c70a8b4c-13ed-43c7-8a73-0d8666847798")
-	)
-	(text "CSNL2010"
-		(exclude_from_sim no)
-		(at 212.598 99.822 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "30dcb04e-babe-41d0-bec5-faec24994339")
-	)
 	(text ""
 		(exclude_from_sim no)
 		(at 152.4 93.98 0)
@@ -2020,16 +1984,6 @@
 			(justify left bottom)
 		)
 		(uuid "959550b7-99a1-4e1f-b037-3e842801d8af")
-	)
-	(text "SMTC1010A-6R8MT"
-		(exclude_from_sim no)
-		(at 192.532 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "b92e5467-3cb8-4e26-8ba9-d2eed8af958d")
 	)
 	(junction
 		(at 256.54 96.52)
@@ -6062,7 +6016,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
+		(property "Footprint" "PowerPCB_Footprints:CSD19534Q5A"
 			(at 137.16 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6489,7 +6443,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PowerPCB_Footprints:CSNL2010"
 			(at 212.09 98.298 90)
 			(hide yes)
 			(show_name no)
@@ -7457,7 +7411,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:NVMFS6H836NLT1G"
+		(property "Footprint" "PowerPCB_Footprints:NVMFS6H836NLT1G"
 			(at 167.64 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7795,7 +7749,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PowerPCB_Footprints:SMTC1010A-6R8MT"
 			(at 191.77 96.52 0)
 			(hide yes)
 			(show_name no)

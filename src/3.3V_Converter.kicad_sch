@@ -859,29 +859,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 146.05 75.565)
-		(end 165.1 91.44)
-		(stroke
-			(width 0)
-			(type solid)
-			(color 255 15 8 1)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "ffe8d349-6344-4b30-94a4-87d82aece79f")
-	)
-	(text "XAL7070-182MEC"
-		(exclude_from_sim no)
-		(at 156.21 87.376 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "8047ab73-7c16-4765-beca-fd7b4d1f6ab3")
-	)
 	(junction
 		(at 179.07 100.33)
 		(diameter 0)
@@ -2249,7 +2226,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PowerPCB_Footprints:TPS566238RQFR"
 			(at 66.04 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2522,7 +2499,7 @@
 				)
 			)
 		)
-		(property "Value" "L"
+		(property "Value" "1.8uH"
 			(at 154.94 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2532,7 +2509,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PowerPCB_Footprints:XAL7070-182MEC"
 			(at 154.94 85.09 0)
 			(hide yes)
 			(show_name no)

@@ -495,6 +495,160 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R_Trim"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.54 -2.54 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "R_Trim"
+				(at -2.54 -0.635 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Trimmable resistor (preset resistor)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor variable potentiometer trimmer"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R_Trim_0_1"
+				(polyline
+					(pts
+						(xy -1.905 -1.905) (xy 1.905 1.905) (xy 2.54 1.27) (xy 1.27 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_Trim_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Diode:SMAJ6.5CA"
 			(pin_numbers
 				(hide yes)
@@ -950,267 +1104,6 @@
 						)
 					)
 					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Schlib1:CSNL2010"
-			(pin_numbers
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at -1.27 1.27 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "CSNL2010"
-				(at -1.27 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "CSNL2010"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Copyright" "Copyright (C) 2025 Ultra Librarian. All rights reserved."
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 0.9144 0.9144)
-					)
-				)
-			)
-			(property "Manufacturer_Name" "Susumu"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 0.9144 0.9144)
-					)
-				)
-			)
-			(property "Manufacturer_Part_Number" "PRL1632-R005-F-T1"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 0.9144 0.9144)
-					)
-				)
-			)
-			(property "Type" ""
-				(at 6.35 -6.985 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 2.54 2.54)
-					)
-				)
-			)
-			(property "RefDes" ""
-				(at 5.715 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 2.54 2.54)
-					)
-				)
-			)
-			(property "ki_fp_filters" "*CSNL2010*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CSNL2010_1_0"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 3.175 1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.175 1.27) (xy 4.445 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.445 -1.27) (xy 5.715 1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.715 1.27) (xy 6.985 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.985 -1.27) (xy 8.255 1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.255 1.27) (xy 9.525 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 9.525 -1.27) (xy 10.16 0)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 12.7 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1930,6 +1823,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 33.02 54.61)
+		(end 48.26 66.04)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 255 8 21 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "9d0b3d30-ee0d-4575-8475-eb60279f981c")
+	)
+	(rectangle
+		(start 232.41 53.34)
+		(end 247.65 64.77)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 255 8 21 1)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "9ef83d0e-8024-493b-9a32-97c427cfa59d")
+	)
 	(junction
 		(at 224.79 53.34)
 		(diameter 0)
@@ -1959,12 +1878,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b723b99-4f52-47d5-9aa7-060c47d6ba9e")
-	)
-	(junction
-		(at 194.31 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "22b5f725-1afb-450e-9781-3a381323146d")
 	)
 	(junction
 		(at 165.1 91.44)
@@ -2001,12 +1914,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66e033f2-b560-4e20-b94b-2f6a061ce1b9")
-	)
-	(junction
-		(at 176.53 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "685f6573-1ab7-40ce-953b-107d34cb7004")
 	)
 	(junction
 		(at 165.1 50.8)
@@ -2063,10 +1970,22 @@
 		(uuid "9279304e-408a-4fb5-a6b4-c99371e26797")
 	)
 	(junction
+		(at 176.53 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97647b27-339e-45c7-8a69-418579d75589")
+	)
+	(junction
 		(at 49.53 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d2dbd15-701d-4e6b-9d01-20dfa7f665c8")
+	)
+	(junction
+		(at 194.31 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a02255df-76c6-4019-888c-7ce93c77b406")
 	)
 	(junction
 		(at 107.95 53.34)
@@ -2548,7 +2467,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 50.8) (xy 179.07 50.8)
+			(xy 176.53 50.8) (xy 181.61 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3018,7 +2937,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 50.8) (xy 191.77 50.8)
+			(xy 194.31 50.8) (xy 189.23 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3585,7 +3504,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
+		(property "Footprint" "PowerPCB_Footprints:CSD19534Q5A"
 			(at 82.55 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3908,7 +3827,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
+		(property "Footprint" "PowerPCB_Footprints:CSD19534Q5A"
 			(at 199.39 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5079,147 +4998,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Schlib1:CSNL2010")
-		(at 179.07 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9ff619fd-f088-4136-a7c1-60efebd8ce57")
-		(property "Reference" "R18"
-			(at 181.356 49.276 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "5mOhm"
-			(at 181.61 55.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "powerDristributionBoard-import-fps:CSNL2010"
-			(at 179.07 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 179.07 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "COPYRIGHT" "Copyright (C) 2025 Ultra Librarian. All rights reserved."
-			(at 179.07 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MANUFACTURER_NAME" "Susumu"
-			(at 179.07 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MANUFACTURER_PART_NUMBER" "PRL1632-R005-F-T1"
-			(at 179.07 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "TYPE" ""
-			(at 185.42 57.785 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "REFDES" ""
-			(at 184.785 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(pin "1"
-			(uuid "9ae60a4d-cafa-4471-ab17-9049f81e17c4")
-		)
-		(pin "2"
-			(uuid "58c17711-210a-4d6e-b1ac-69dbb0a04426")
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
-					(reference "R18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 165.1 72.39 0)
 		(unit 1)
@@ -5296,6 +5074,86 @@
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
 					(reference "R_ISCP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Trim")
+		(at 185.42 50.8 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a82f5df1-65d9-4fb0-8f8e-053bc9d421de")
+		(property "Reference" "R18"
+			(at 185.42 43.18 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5mOhms"
+			(at 185.42 45.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PowerPCB_Footprints:CSNL2010"
+			(at 185.42 52.578 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Trimmable resistor (preset resistor)"
+			(at 185.42 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3ecead25-0ca1-452b-92c8-10dbe46f7e59")
+		)
+		(pin "1"
+			(uuid "dd7b4fc8-4c85-422e-bf65-73569c80ee56")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/decf1042-8545-4374-a825-63213b68d513"
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -5898,7 +5756,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:VQFN24_RGE-T_TEX-L"
+		(property "Footprint" "PowerPCB_Footprints:LM74910QRGERQ1"
 			(at 87.63 83.82 0)
 			(hide yes)
 			(show_name no)

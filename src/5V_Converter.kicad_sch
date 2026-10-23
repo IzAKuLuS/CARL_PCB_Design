@@ -1833,7 +1833,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PowerPCB_Footprints:TPS564257DRLR"
 			(at 76.2 106.68 0)
 			(hide yes)
 			(show_name no)

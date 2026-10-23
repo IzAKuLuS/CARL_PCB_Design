@@ -30,7 +30,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:DQJ8"
+		(property "Footprint" "PowerPCB_Footprints:CSD19534Q5A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -770,7 +770,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:VQFN24_RGE-T_TEX-L"
+		(property "Footprint" "PowerPCB_Footprints:LM74910QRGERQ1"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1368,7 +1368,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "powerDristributionBoard-import-fps:NVMFS6H836NLT1G"
+		(property "Footprint" "PowerPCB_Footprints:NVMFS6H836NLT1G"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1600,7 +1600,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PowerPCB_Footprints:TPS564257DRLR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1785,7 +1785,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PowerPCB_Footprints:TPS566238RQFR"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
