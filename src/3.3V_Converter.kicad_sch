@@ -493,35 +493,35 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Schlib1:TPS566238RQFR (12V-3.3V)"
+		(symbol "PowerPCB_Symbols:TPS566238RQFR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" ""
-				(at -1.27 1.27 0)
+			(property "Reference" "U4"
+				(at 30.48 33.02 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
 			)
-			(property "Value" "*"
-				(at -1.27 -3.81 0)
+			(property "Value" "TPS566238RQFR"
+				(at 30.48 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.8288 1.8288)
+						(size 1.27 1.27)
 					)
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "RQF0009A"
+			(property "Footprint" "PowerPCB_Footprints:TPS566238RQFR"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -565,7 +565,7 @@
 					)
 				)
 			)
-			(symbol "TPS566238RQFR (12V-3.3V)_1_0"
+			(symbol "TPS566238RQFR_1_0"
 				(rectangle
 					(start 60.96 33.02)
 					(end 30.48 7.62)
@@ -2041,7 +2041,7 @@
 				)
 			)
 		)
-		(property "Value" "1pf"
+		(property "Value" "100nf"
 			(at 137.1536 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2188,114 +2188,6 @@
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Schlib1:TPS566238RQFR (12V-3.3V)")
-		(at 66.04 113.03 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "47115358-7872-4133-8c2f-86c2e2d94865")
-		(property "Reference" "U4"
-			(at 96.52 80.01 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "TPS566238RQFR (12V-3.3V)"
-			(at 96.52 107.95 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "PowerPCB_Footprints:TPS566238RQFR"
-			(at 66.04 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 66.04 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bef5d4a9-7d47-44d0-b143-7be6586d61e4")
-		)
-		(pin "2"
-			(uuid "acc9a5fa-3936-4f54-a45a-091e9402fb54")
-		)
-		(pin "3"
-			(uuid "180129b9-d23a-4dc4-8113-c1106bb2a55b")
-		)
-		(pin "4"
-			(uuid "17101b8e-f0c1-4f79-8713-ae7301760636")
-		)
-		(pin "5"
-			(uuid "aeaa4ecf-fc3b-4af5-808b-4f837a7bf781")
-		)
-		(pin "6"
-			(uuid "bbb7ca92-9988-44c6-9339-c0e0612f8a33")
-		)
-		(pin "7"
-			(uuid "419bfff6-70d9-4d90-a176-7314df864f37")
-		)
-		(pin "8"
-			(uuid "bb1e29b6-7d34-4fcf-8002-9b09f808a096")
-		)
-		(pin "9"
-			(uuid "c887b3e6-dd4f-4a7c-94e6-1e9df31f3b8f")
-		)
-		(instances
-			(project "3.3V_Converter"
-				(path "/112ce215-2e7e-4187-b3f9-d58abe1671d7"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-			(project "powerDristributionBoard"
-				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
-					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -3256,6 +3148,107 @@
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
 					(reference "C35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PowerPCB_Symbols:TPS566238RQFR")
+		(at 66.04 113.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2a5efca-2667-4c8b-a789-c8cf1a19e202")
+		(property "Reference" "U4"
+			(at 111.76 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPS566238RQFR (12V to 3.3V)"
+			(at 111.76 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PowerPCB_Footprints:TPS566238RQFR"
+			(at 66.04 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "49e1746c-822e-4b86-bf56-0304edf77e2d")
+		)
+		(pin "6"
+			(uuid "55109cd2-3986-40d5-80ca-d265c7bf40e1")
+		)
+		(pin "4"
+			(uuid "559e5151-d38e-4c54-bb2d-24e6a5011106")
+		)
+		(pin "3"
+			(uuid "fd3aabd7-bb7a-4f4a-aeed-70cb26919fd2")
+		)
+		(pin "2"
+			(uuid "1af872af-bef2-42f8-8d5e-898ee3e5f233")
+		)
+		(pin "5"
+			(uuid "28440a38-2b57-48b9-861e-d79e020a83e3")
+		)
+		(pin "8"
+			(uuid "3fc07775-bde7-4f49-80bf-7328602ce313")
+		)
+		(pin "9"
+			(uuid "f466a5fe-665f-4359-bfae-8c1d9ce7ff8b")
+		)
+		(pin "7"
+			(uuid "f01bc378-02a8-4b61-88b4-83153d6644ea")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99"
+					(reference "U4")
 					(unit 1)
 				)
 			)

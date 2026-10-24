@@ -1237,7 +1237,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PowerPCB_Symbols:NVMFS6H836NLT1G"
+		(symbol "PowerPCB_Symbols:NTMFS4D5N08XT1G"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1254,7 +1254,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "NVMFS6H836NLT1G"
+			(property "Value" "NTMFS4D5N08XT1G"
 				(at -12.7 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1265,7 +1265,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "PowerPCB_Footprints:NVMFS6H836NLT1G"
+			(property "Footprint" "PowerPCB_Footprints:NTMFS4D5N08XT1G"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1309,7 +1309,7 @@
 					)
 				)
 			)
-			(symbol "NVMFS6H836NLT1G_1_0"
+			(symbol "NTMFS4D5N08XT1G_1_0"
 				(rectangle
 					(start 0 15.24)
 					(end -12.7 2.54)
@@ -3618,6 +3618,16 @@
 	)
 	(wire
 		(pts
+			(xy 132.08 170.18) (xy 132.08 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac7bb437-ca5d-46b3-9be1-ecd73293cc3d")
+	)
+	(wire
+		(pts
 			(xy 247.65 167.64) (xy 247.65 124.46)
 		)
 		(stroke
@@ -5407,6 +5417,95 @@
 		)
 	)
 	(symbol
+		(lib_id "PowerPCB_Symbols:NTMFS4D5N08XT1G")
+		(at 172.72 113.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5569c599-f557-4621-ba8c-e38ddbb9497a")
+		(property "Reference" "M3"
+			(at 166.37 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "NTMFS4D5N08XT1G"
+			(at 166.37 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PowerPCB_Footprints:NTMFS4D5N08XT1G"
+			(at 172.72 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5e030b49-01d8-4b8d-92b7-db785d714cf8")
+		)
+		(pin "4"
+			(uuid "34e351e5-661b-4141-83af-369d8fccfa89")
+		)
+		(pin "3"
+			(uuid "b5430499-7daf-4aa0-a124-35b7c9a3c493")
+		)
+		(pin "2"
+			(uuid "3cece071-c10b-485c-b22b-9f0b127dcbdb")
+		)
+		(pin "5"
+			(uuid "bac46b28-b616-49a5-bb43-67f9026a564b")
+		)
+		(instances
+			(project "powerDristributionBoard"
+				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
+					(reference "M3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 48.26 29.21 0)
 		(unit 1)
@@ -6048,94 +6147,6 @@
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
 					(reference "M4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PowerPCB_Symbols:NVMFS6H836NLT1G")
-		(at 172.72 113.03 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "755c70f5-4179-474a-81f9-ce7bfee10103")
-		(property "Reference" "M3"
-			(at 166.37 93.726 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "NVMFS6H836NLT1G"
-			(at 166.37 96.266 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PowerPCB_Footprints:NVMFS6H836NLT1G"
-			(at 172.72 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 172.72 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 172.72 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0afd6f14-e3ff-49c3-bb1d-b65c22cce480")
-		)
-		(pin "5"
-			(uuid "648b9121-d499-4816-bd39-064770adfdf4")
-		)
-		(pin "3"
-			(uuid "a6dbea67-57f6-489a-b649-a664289d9d6a")
-		)
-		(pin "4"
-			(uuid "c6ed283a-31f5-47fb-8563-f5cbedd3d711")
-		)
-		(pin "2"
-			(uuid "266e0f70-6dab-4470-bb3d-abc6e0899e6b")
-		)
-		(instances
-			(project "powerDristributionBoard"
-				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e"
-					(reference "M3")
 					(unit 1)
 				)
 			)
@@ -6790,7 +6801,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 132.08 167.64 0)
+		(at 132.08 170.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6801,7 +6812,7 @@
 		(fields_autoplaced yes)
 		(uuid "9e03bf7a-add6-4bfd-ac89-478139945d40")
 		(property "Reference" "#PWR06"
-			(at 132.08 173.99 0)
+			(at 132.08 176.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6812,7 +6823,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 132.08 172.72 0)
+			(at 132.08 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6822,7 +6833,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 167.64 0)
+			(at 132.08 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6833,7 +6844,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 167.64 0)
+			(at 132.08 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6844,7 +6855,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 167.64 0)
+			(at 132.08 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
