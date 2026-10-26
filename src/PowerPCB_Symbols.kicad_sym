@@ -732,8 +732,8 @@
 		)
 		(symbol "LM5190RGYR_(20V-50V)_1_0"
 			(rectangle
-				(start 58.42 73.66)
-				(end 22.86 5.08)
+				(start 22.86 73.66)
+				(end 58.42 5.08)
 				(stroke
 					(width 0)
 					(type solid)
@@ -815,7 +815,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 63.5 12.7 180)
 				(length 5.08)
 				(name "AGND"
@@ -851,7 +851,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at 63.5 27.94 180)
 				(length 5.08)
 				(name "VCC"
@@ -869,7 +869,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 63.5 17.78 180)
 				(length 5.08)
 				(name "PGND"
@@ -941,7 +941,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at 63.5 55.88 180)
 				(length 5.08)
 				(name "SW"
@@ -959,7 +959,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at 63.5 63.5 180)
 				(length 5.08)
 				(name "CBOOT"
@@ -977,7 +977,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 17.78 33.02 0)
 				(length 5.08)
 				(name "BIAS"
@@ -1467,7 +1467,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 50.8 -30.48 180)
 				(length 7.62)
 				(name "GND"
@@ -2291,8 +2291,8 @@
 		)
 		(symbol "TPS566238RQFR_1_0"
 			(rectangle
-				(start 60.96 33.02)
-				(end 30.48 7.62)
+				(start 30.48 33.02)
+				(end 60.96 7.62)
 				(stroke
 					(width 0)
 					(type solid)
@@ -2302,7 +2302,7 @@
 					(type background)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at 25.4 20.32 0)
 				(length 5.08)
 				(name "VCC"
@@ -2356,7 +2356,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin passive line
 				(at 66.04 10.16 180)
 				(length 5.08)
 				(name "PGND"
@@ -2410,7 +2410,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at 66.04 27.94 180)
 				(length 5.08)
 				(name "BST"
@@ -2428,7 +2428,7 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at 66.04 22.86 180)
 				(length 5.08)
 				(name "SW"
