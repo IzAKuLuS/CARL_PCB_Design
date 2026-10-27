@@ -660,7 +660,7 @@
           "show": false
         }
       ],
-      "filter_string": "R",
+      "filter_string": "C",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -708,7 +708,7 @@
         "uuid": "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
       }
     ],
-    "used_designators": "U1-4,Rset1,R1-23,Ccs+1,R_ILIM1,NT1,M1-4,Ciscp1,R_IMON1,D1-8,F1,Cvin1,CN1-4,Ctmr1,R_div1-4,L1-3,Cvs1,Ccap1,Cout1,C_dvdt1,Cuv1,C1-59,R_ISCP1,#PWR1-38,#FLG1-6",
+    "used_designators": "R1-23,NT1,M1-4,L1-3,U1-4,F1,#PWR1-38,D1-8,C1-59,CN1-4,#FLG1-6",
     "variants": []
   },
   "sheets": [
