@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -156,6 +172,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -167,6 +184,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -178,6 +196,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 0,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -453,6 +472,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -510,8 +530,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
-    "netclass_assignments": null,
+    "net_colors": {},
+    "netclass_assignments": {},
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -520,6 +540,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -708,18 +729,10 @@
         "uuid": "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03"
       }
     ],
-    "used_designators": "R1-23,NT1,M1-4,L1-3,U1-4,F1,#PWR1-38,D1-8,C1-59,CN1-4,#FLG1-6",
+    "used_designators": "#FLG1-6,#PWR1-38,C1-59,CN1-4,D1-8,F1,L1-3,M1-4,NT1,R1-23,U1-4",
     "variants": []
   },
   "sheets": [
-    [
-      "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03",
-      "Root"
-    ],
-    [
-      "decf1042-8545-4374-a825-63213b68d513",
-      "Protection Circuit"
-    ],
     [
       "8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e",
       "26 to 12V(5A)"
@@ -731,6 +744,14 @@
     [
       "b82ebbb5-bc9d-4e10-ab51-9ca070da0d99",
       "12V to 3.3V(3A)"
+    ],
+    [
+      "501e9f3f-9bfa-47dd-b56d-5fd6974f0d03",
+      "Root"
+    ],
+    [
+      "decf1042-8545-4374-a825-63213b68d513",
+      "Protection Circuit"
     ]
   ],
   "text_variables": {},
