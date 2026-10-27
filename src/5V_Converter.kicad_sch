@@ -1771,7 +1771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e199870-06d2-4bb6-a5a9-c686ab305efc")
-		(property "Reference" "C48"
+		(property "Reference" "C41"
 			(at 137.1536 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1833,7 +1833,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C48")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -1851,7 +1851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12879c2f-7b1e-47c3-98b9-4727dadb03c1")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 171.45 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1915,7 +1915,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -1933,7 +1933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fb9e9b3-ca4d-4e31-9358-a8ec1baf31bc")
-		(property "Reference" "C37"
+		(property "Reference" "C36"
 			(at 39.37 104.1335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1997,7 +1997,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C37")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -2015,7 +2015,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ab25b03-d2b8-4f91-8f47-dec9b32f82f2")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR025"
 			(at 105.41 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -2075,7 +2075,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "#PWR016")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -2093,7 +2093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ca9ee51-e489-4604-8f40-e8a7945dbb7b")
-		(property "Reference" "C46"
+		(property "Reference" "C40"
 			(at 86.36 114.2935 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2157,7 +2157,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C46")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -2175,7 +2175,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "506106cf-f6a4-4873-9b7d-3b67b6704764")
-		(property "Reference" "C41"
+		(property "Reference" "C47"
 			(at 236.22 104.1335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2239,7 +2239,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C41")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -2257,7 +2257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e46b272-d006-4309-b421-b9e142829277")
-		(property "Reference" "C40"
+		(property "Reference" "C44"
 			(at 198.12 104.1335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2321,7 +2321,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C40")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -2421,7 +2421,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66f459d4-f7bf-4ab5-b9ba-0ccaaa7a1a21")
-		(property "Reference" "C39"
+		(property "Reference" "C43"
 			(at 185.42 104.1335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2485,7 +2485,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C39")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -2503,7 +2503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "877a34ab-6392-4e14-acab-2759e738c55b")
-		(property "Reference" "C47"
+		(property "Reference" "C39"
 			(at 74.93 110.4835 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2567,7 +2567,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C47")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -2686,7 +2686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9aebe3bb-ff17-40b0-b7fd-5b34475d9c01")
-		(property "Reference" "C49"
+		(property "Reference" "C45"
 			(at 210.82 104.1335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2750,7 +2750,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C49")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -2768,7 +2768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b4cd39d-a05a-4918-91a5-54891442301a")
-		(property "Reference" "C45"
+		(property "Reference" "C37"
 			(at 49.53 104.1335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2832,7 +2832,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C45")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -2930,7 +2930,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afbc77cd-f463-4df0-b3a0-8880453e64d0")
-		(property "Reference" "R15"
+		(property "Reference" "R17"
 			(at 171.45 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2994,7 +2994,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "R15")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -3012,7 +3012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dba67184-3855-4583-8243-33a1b22c94b8")
-		(property "Reference" "C50"
+		(property "Reference" "C46"
 			(at 223.52 104.1335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3076,7 +3076,7 @@
 		(instances
 			(project "powerDristributionBoard"
 				(path "/501e9f3f-9bfa-47dd-b56d-5fd6974f0d03/f7fc7c23-3a4e-412b-b14d-71f85b15285a"
-					(reference "C50")
+					(reference "C46")
 					(unit 1)
 				)
 			)
