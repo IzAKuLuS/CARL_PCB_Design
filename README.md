@@ -16,9 +16,10 @@
 > Authored by Bryan Luong, Jonathan Villalobos    
 > Designed in Kicad
 
+![Screenshot](./screenshots/powerDistribution/powerDistributionBoardScreenshot3.png)
 ![Screenshot](./screenshots/powerDistribution/powerDistributionPCBScreenshot1.png)
 ![Screenshot](./screenshots/powerDistribution/powerDistributionBoardScreenshot2.png)
-![Screenshot](./screenshots/powerDistribution/powerDistributionBoardScreenshot3.png)
+
 
 ## Installation
 
