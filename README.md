@@ -6,8 +6,6 @@
 
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-blue.svg?style=flat-square)](https://opensource.org/licenses/UNLICENSED)
 
-[Report Bug](https://github.com/IzAKuLuS/carl-pcb-design/issues) · [Request Feature](https://github.com/IzAKuLuS/carl-pcb-design/issues)
-
 </div>
 
 ---
