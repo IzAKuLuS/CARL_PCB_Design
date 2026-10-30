@@ -3211,6 +3211,39 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C54921593"
+			(at 69.85 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "HRC1206J223 HNTN"
+			(at 69.85 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "HWA CHN"
+			(at 69.85 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ddfa6c22-b7b5-43aa-bbb1-3c946f4cb1ce")
 		)
@@ -4100,6 +4133,39 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 69.85 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C55382848"
+			(at 69.85 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "E7YYD"
+			(at 69.85 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Beking Optoelectronics"
+			(at 69.85 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
