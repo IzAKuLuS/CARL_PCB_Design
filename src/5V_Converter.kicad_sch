@@ -3266,7 +3266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PowerPCB_Footprints:DR125-2R2-R"
+		(property "Footprint" "PowerPCB_Footprints:SPM6530T-1R5M100"
 			(at 151.13 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3277,7 +3277,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5337632.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwAMXlJfTlBYBAYHElQKUVVQTwJbU10DRwVcX1VVEgQxVlNfRVlcX1RXRVJZXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRllfSQwSGg0%3D"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/TDK-SPM6530T1R5M100/C76854"
 			(at 151.13 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -3299,7 +3299,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C5337632"
+		(property "LCSC Part" "C76854"
 			(at 151.13 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -3310,7 +3310,7 @@
 				)
 			)
 		)
-		(property "MPN" "DR125-2R2-R"
+		(property "MPN" "SPM6530T-1R5M100"
 			(at 151.13 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -3321,7 +3321,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "EATON"
+		(property "Manufacturer" "TDK"
 			(at 151.13 74.93 90)
 			(hide yes)
 			(show_name no)

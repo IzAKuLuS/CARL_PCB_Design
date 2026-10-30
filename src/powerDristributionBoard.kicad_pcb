@@ -204,6 +204,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2918511"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "286d7fd6-5ca5-458a-a05d-ca225d7c400d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CS3225X7R226K250NRL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "abdc6e96-4c0f-4b2b-b87c-a5ccd43e4597")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samwha Capacitor"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87afe54b-ad51-44a9-ab84-d1e0cc5fb739")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/60a97a93-49b8-41fc-bbb9-67169c153d07")
 		(sheetname "/26 to 12V(5A)/")
@@ -946,6 +985,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C55382848"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5ca9e88-cf0d-422e-8458-ccf2f67c8c3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "E7YYD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d675685f-2102-47e5-ad3c-72c2f711ec9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Beking Optoelectronics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c253e0d1-d774-4ae4-a804-e38bff618d7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/8565cd36-c6eb-4b76-974a-0bcc95379132")
 		(sheetname "/")
@@ -1144,6 +1222,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C309475"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ab90790-5451-4501-9880-d0e491b5b2e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603JRX7R9BB683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9dfde7a8-1c89-41fc-8d34-a777b87c6dcb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a420702d-340e-4c5c-94a4-2bfd8d76d8a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/5342a9e1-f5d1-42ad-9b97-5d8a9717b0ee")
 		(sheetname "/Protection Circuit/")
@@ -1288,6 +1405,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C527375"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d2a295e-5f36-43b4-a3c9-69e63c3b583f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC1210KKX7R0BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e06b75c0-cb9c-46c6-89bf-ed97db0b7dda")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df6d6fe1-a7fc-4a0a-aebe-134747e1f37b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1438,6 +1594,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C381466"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3769857-f2f6-4407-b63f-302185a64538")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FS32X475K101EGG"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd84ebc0-624f-46e6-bb19-b80138c02f92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PSA(Prosperity Dielectrics)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "432f0567-9de6-40fd-b84d-8bc960ccca5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/79f7d4fc-d95f-46b0-bcab-e34a898bdfc2")
 		(sheetname "/26 to 12V(5A)/")
@@ -1551,7 +1746,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "100nf"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "553b614b-bf60-4a01-8229-a0ce1855a9ca")
@@ -1581,6 +1776,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c18481d9-f79f-4f67-9600-e6c92405484f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc0e73a0-4137-4ecd-993f-fc8948fa7b72")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ab3f1b3-aa7c-47c4-9778-a4d3c180a717")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1731,6 +1965,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51d55989-17e5-4d52-9989-48ec3a4b9ac1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0c4360f-20c9-4f17-8851-ef03598bfecb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7802b65-91d4-400c-93ce-a6f14edb3945")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/30f8610e-4305-4c50-8c17-52dd1edb5183")
 		(sheetname "/26 to 12V(5A)/")
@@ -1878,6 +2151,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C381466"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd03c7ca-f5e1-4fd9-8c75-3ce7aa7bc3be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FS32X475K101EGG"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0eb9262c-650b-484c-a06a-edbdaed7560d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PSA(Prosperity Dielectrics)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "672198b6-3268-4159-83f5-e0b476dcf725")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/ba815f54-8c82-4cd6-859b-26e6729f8458")
 		(sheetname "/26 to 12V(5A)/")
@@ -2021,6 +2333,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "385076bb-5845-40ff-aa97-c9fb1afa0939")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e9cd5cf-6b61-4a07-8e0d-1986bf658344")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "542ac846-0425-46d7-9b01-660eb625e37a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2171,6 +2522,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25977"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77a5cfad-b1e9-4be1-8102-5c3b91e7a10e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0603WAF6041T5E"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1b52b73-207c-4435-ad7c-8ba326255cfe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59de4fa0-71b4-4b16-ba96-53f79ff53e44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/6ebebb34-3afd-4392-be16-3273d67eb3bb")
 		(sheetname "/Protection Circuit/")
@@ -2312,6 +2702,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5445338"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25d7f514-a7fc-4e94-aac3-ad84fe0b781b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "SMTC1010A-6R8MT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "caf8ed13-87d6-48d3-a682-524119b3eb92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "SXN(Shun Xiang Nuo Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9916a275-cb39-41f7-8dbc-43178f4b4ce9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2524,6 +2953,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5219353"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e03c8ff-4843-4578-9625-238134d95aa8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TPS566238RQFR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f9627e0c-15a3-4b82-aa1d-4d5d33856b9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d462724-774e-4cfe-86cf-d1a406845dc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2804,6 +3272,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C513616"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94cb08d3-1dc2-4f25-876c-28ecce60aa88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0201JRNPO8BN330"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2fbc6dae-a227-4f2f-ae6a-218459a413e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "709f9d9a-a799-4e9c-8487-37b6f6ff9748")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4000,6 +4507,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C23085"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e7518c4-ed44-474d-b934-31ebaa88bfc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0603WAF5902T5E"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0319aa8e-a854-4685-ae64-c933202a0aa8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aaf852fe-1252-4651-9099-c1090612a793")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/4f3f8524-4a52-4ffb-9d80-1a135b294f18")
 		(sheetname "/26 to 12V(5A)/")
@@ -4144,6 +4690,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8acd9d5-bec3-4703-99f8-f073569df7f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29f12140-0060-4d0b-a58c-1f9eddddcd33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "768b6e8c-7d56-4f61-bd3e-2a997b70b48b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4294,6 +4879,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2077551"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f06788d6-dd99-4259-bda8-d3ac5b5b1c64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ERJ6ENF9761V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3bea3874-3f1f-43fe-a876-d25083636352")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PANASONIC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8474188-a2f1-4e7c-98dc-04b15fee5ee6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/04525ce1-56fa-480a-9702-1f4a3a7b9b74")
 		(sheetname "/26 to 12V(5A)/")
@@ -4437,6 +5061,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03e39d03-57f6-43a5-8c3b-3884a12c9f0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c5ac1c5-06bb-4d20-8ea0-909c20ac855a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "efaa77ad-e1c1-473d-b7ee-f1a2b08562ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4597,7 +5260,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole dnp)
+		(attr through_hole exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 5.09 -0.441)
@@ -6258,6 +6921,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2092cd0a-7dbd-4323-8052-d2bfee4f8c49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b16dcef9-cedd-40d6-8cd9-2c746800063b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f15a7cad-f2bb-4259-b4b3-b25424b44a7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/7c4d44f3-bf14-4fee-a460-6a9db8c11f09")
 		(sheetname "/26 to 12V(5A)/")
@@ -6404,6 +7106,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C100001"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "99375cd5-56ad-42c8-875f-cc196a72e81d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-0730KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7fe97d7-0de2-45ac-add4-abd76889c69b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23c7cef0-2be4-46a0-b351-7176213913bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/f7fc7c23-3a4e-412b-b14d-71f85b15285a/12879c2f-7b1e-47c3-98b9-4727dadb03c1")
 		(sheetname "/12V to 5V(3A)/")
@@ -6545,6 +7286,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C3911679"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89babe98-1b85-41da-998a-c44b5e593967")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "XAL7070-182MEC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f641469-020c-4112-891a-9e98b4abab30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Coilcraft"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "620c5c40-6da0-4a80-b177-aac6b3b97467")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6759,6 +7539,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2180996"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b78bb325-bcf6-456b-8a79-2a2f6d912557")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C0603C105Z8VACTU"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87616d2b-2361-44e0-9074-01695cb9988d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff85ac2d-18e6-4556-8478-380baab4059d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7505,6 +8324,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C844916"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8ec79b5-9f88-4fc0-9d41-be7c650b9557")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CRCW0603100KFKEA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f22eed8f-24b3-415b-9918-dafc6c1ee189")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Intertech"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4822d37-0fbc-4371-a63f-f75c69d90484")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/c7951ce8-2c4b-4277-afa0-0ee8a07c26e2")
 		(sheetname "/Protection Circuit/")
@@ -7649,6 +8507,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C710873"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c838783-081c-4070-97c0-2e47b62386a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R61A102KA01D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29080da9-f650-4469-a4e5-4bb647d418fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d6afdb9-d292-4187-937f-530f4c93c58b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7799,6 +8696,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C844916"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b24329b-ed7f-4b28-88c5-01bf7d75cc28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CRCW0603100KFKEA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d8fa7f2-62d6-4bc8-b034-2946961adc48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Intertech"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6451e3b-2679-49a8-841c-67937af22bf0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/f45843e7-667d-403a-9285-d987486a0d1d")
 		(sheetname "/Protection Circuit/")
@@ -7911,7 +8847,7 @@
 				)
 			)
 		)
-		(property "Value" "LM5190RGYR_(20V-50V)"
+		(property "Value" "LM5190RGYR"
 			(at 0 3 0)
 			(layer "F.Fab")
 			(uuid "1f24ce82-f7fb-4c54-a32d-a538970028c0")
@@ -7941,6 +8877,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C43351172"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07943094-f511-41d1-89e5-bdf4a72a76f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "LM5190RGYR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ace8794-9a80-4e2c-9d28-01989e2ed3fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c9d94cf-3321-41ce-9ea2-d8e4b9fd49f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8315,25 +9290,24 @@
 			)
 		)
 	)
-	(footprint "PowerPCB_Footprints:DR125-2R2-R"
+	(footprint "PowerPCB_Footprints:SPM6530T-1R5M100"
 		(layer "F.Cu")
 		(uuid "57e29372-590b-4e01-a551-75042b3fa239")
-		(at 257.6761 28.2036 180)
+		(at 256.6011 28.2036 180)
+		(descr "1.5uH±20%")
 		(property "Reference" "L2"
-			(at -0.03 -7.86 180)
-			(unlocked yes)
+			(at 0 -4 180)
 			(layer "F.SilkS")
 			(uuid "b154148b-2202-47f5-9c76-f9e6826d0f30")
 			(effects
 				(font
 					(size 1 1)
-					(thickness 0.1)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property "Value" "2.2uH"
-			(at 0 -9.24 180)
-			(unlocked yes)
+			(at 0 4 180)
 			(layer "F.Fab")
 			(uuid "bfff1875-7e87-4fef-aa22-5cd38e3d7faa")
 			(effects
@@ -8343,12 +9317,45 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5337632.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=RwAMXlJfTlBYBAYHElQKUVVQTwJbU10DRwVcX1VVEgQxVlNfRVlcX1RXRVJZXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRllfSQwSGg0%3D"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/TDK-SPM6530T1R5M100/C76854"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35ffd356-6f3b-412b-8ffd-f0291c32dc57")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Inductor"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b4e67c8-b688-406b-be26-2c6c12d147fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C76854"
+			(at 0 0 180)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c687dbd9-bbc6-433f-9728-f68848d6f025")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SPM6530T-1R5M100"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "35ffd356-6f3b-412b-8ffd-f0291c32dc57")
+			(uuid "fc32729b-e434-4a14-9baf-9f5339dca73e")
 			(effects
 				(font
 					(size 1 1)
@@ -8356,12 +9363,12 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Manufacturer" "TDK"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6b4e67c8-b688-406b-be26-2c6c12d147fa")
+			(uuid "d7000fd7-88a6-4d2b-8b10-d74c60c61724")
 			(effects
 				(font
 					(size 1 1)
@@ -8379,11 +9386,11 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 6.5 6.5)
-			(end 6.5 5.75)
+			(start 3.7 3.4)
+			(end -3.7 3.4)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -8392,8 +9399,8 @@
 			(uuid "7be0350d-da57-4159-b9dd-099fc5b92865")
 		)
 		(fp_line
-			(start 6.5 -6.5)
-			(end 6.5 -5.75)
+			(start 3.7 1.93)
+			(end 3.7 3.4)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -8402,8 +9409,8 @@
 			(uuid "ebf27468-0def-4e76-a438-954692d8ea52")
 		)
 		(fp_line
-			(start -6.5 6.5)
-			(end 6.5 6.5)
+			(start 3.7 -3.4)
+			(end 3.7 -1.93)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -8412,8 +9419,8 @@
 			(uuid "5e22b3a8-322f-4501-8860-9170fd046985")
 		)
 		(fp_line
-			(start -6.5 6.5)
-			(end -6.5 5.75)
+			(start -2.79 -2.54)
+			(end -3.56 -2.54)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -8422,8 +9429,8 @@
 			(uuid "e665a258-de61-4f3c-bfd8-8f2a18b0ced6")
 		)
 		(fp_line
-			(start -6.5 -6.5)
-			(end 6.5 -6.5)
+			(start -2.79 -3.3)
+			(end -2.79 -2.54)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -8432,8 +9439,8 @@
 			(uuid "d892ff60-d7d9-4c1c-92da-9b1c0987c7f4")
 		)
 		(fp_line
-			(start -6.5 -6.5)
-			(end -6.5 -5.75)
+			(start -3.7 1.93)
+			(end -3.7 3.4)
 			(stroke
 				(width 0.25)
 				(type solid)
@@ -8441,31 +9448,90 @@
 			(layer "F.SilkS")
 			(uuid "c5d3d470-8d35-4597-a7ab-a6c137ec5df5")
 		)
-		(fp_rect
-			(start -6.25 -6.25)
-			(end 6.25 6.25)
+		(fp_line
+			(start -3.7 -3.4)
+			(end 3.7 -3.4)
 			(stroke
-				(width 0.1)
+				(width 0.25)
 				(type solid)
 			)
-			(fill no)
-			(layer "Dwgs.User")
-			(uuid "6fdeef2d-f3d7-4042-8cdd-3fb0b7a9866c")
+			(layer "F.SilkS")
+			(uuid "1f12164f-6846-4c41-af0a-806e5a444b23")
 		)
-		(fp_rect
-			(start -7.25 -6.75)
-			(end 7.25 6.75)
+		(fp_line
+			(start -3.7 -3.4)
+			(end -3.7 -1.93)
 			(stroke
-				(width 0.1)
+				(width 0.25)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e68b78e0-76a6-4d78-8345-a18fd0ab9f0f")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 1.14 0)
+			(stroke
+				(width 0.25)
 				(type solid)
 			)
 			(fill no)
+			(layer "F.SilkS")
+			(uuid "ed6457a8-d40d-4b92-9535-efcd084a149e")
+		)
+		(fp_circle
+			(center -3.55 3.25)
+			(end -3.52 3.25)
+			(stroke
+				(width 0.06)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "bd68083e-30cb-4034-a0e0-70321366ae19")
+		)
+		(fp_line
+			(start 3.55 3.25)
+			(end -3.55 3.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
 			(layer "F.CrtYd")
-			(uuid "cad428f8-8f78-4399-a20d-c5b3982890e2")
+			(uuid "a7209fd0-c58a-45ba-8f73-82a1c76e4724")
+		)
+		(fp_line
+			(start 3.55 -3.25)
+			(end 3.55 3.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "f81cdf04-26d0-4e62-a6e7-31398fd5356a")
+		)
+		(fp_line
+			(start -3.55 3.25)
+			(end -3.55 -3.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "2804d175-ef88-412e-9904-95323c5f689f")
+		)
+		(fp_line
+			(start -3.55 -3.25)
+			(end 3.55 -3.25)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "d7a9ba6f-03d4-49c6-865e-b1d7662ef88d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -7.74 180)
-			(unlocked yes)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "e3c35a1a-5a97-4ccc-b274-acba9ffadac4")
 			(effects
@@ -8476,8 +9542,8 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -4.975 0 180)
-			(size 3.85 5.5)
+			(at -2.8 0 180)
+			(size 2 3.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(U3-SW)")
 			(pinfunction "1_1")
@@ -8485,8 +9551,8 @@
 			(uuid "86bc86b2-5a88-48a7-9f6a-4fd8f6732b99")
 		)
 		(pad "2" smd rect
-			(at 4.975 0 180)
-			(size 3.85 5.5)
+			(at 2.8 0 180)
+			(size 2 3.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/12V to 5V(3A)/Vout+")
 			(pinfunction "2_2")
@@ -8494,6 +9560,17 @@
 			(uuid "475a37cb-45eb-45d1-97f2-88a28ecc0ac9")
 		)
 		(embedded_fonts no)
+		(model "${KICAD_3RD_PARTY}/EasyEDA.3dshapes/IND-SMD_L7.1-W6.5-H3.0.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -8542,6 +9619,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24a567a8-0e90-4985-97ea-786139ab7a20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ac47238-a953-4191-b7cb-ec122fd65f80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4106b6a1-7e80-4429-b8a3-d65d0b0d68c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8689,6 +9805,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ed33609-aed6-460c-9791-c38e898285a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "226b3b1e-ab4b-488e-aaa6-50c440945d9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "778d0de8-82ec-4336-af47-53b573b1030a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9174,6 +10329,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C22427891"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4993936-ab82-4c72-abdf-cbaa0c070654")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "LM74910QRGERQ1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0e87d00-88b9-445b-981a-64293f692212")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6444307-2ba6-4e81-b1e1-9d24683e240b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "*VQFN24_RGE-T_TEX-L*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/4162bd8a-0121-47a5-9afd-9a7e4b064a71")
 		(sheetname "/Protection Circuit/")
@@ -9641,6 +10835,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53946361-da9f-49f5-9e04-64b7869db536")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2c9d980-25df-4d97-a536-f9dc79173a18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48f63fe9-58d4-478a-b4d8-fe855edde534")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/5e82f2ea-0d56-4b14-af50-f997b480b488")
 		(sheetname "/26 to 12V(5A)/")
@@ -9788,6 +11021,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2653986"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b74ecaea-4426-4120-84c7-250d83dacf65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ESR03EZPF1001"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "46d1a8c4-cb01-40cd-978a-d0b7e66a500f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "ROHM Semicon"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b85a4fab-7b2f-4f52-b9a9-72065492a9a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/096c617b-9d61-4d79-8c99-e8ccd4f5f0cd")
 		(sheetname "/Protection Circuit/")
@@ -9931,6 +11203,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2180996"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b01bd6de-f7a6-4491-a059-addb7431fef7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C0603C105Z8VACTU"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03961ed0-900a-4c92-bd75-68d088646a4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "KEMET"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd54fd25-03e3-4a18-8682-ff9522f5e106")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10081,6 +11392,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2918511"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cfc96c3b-db64-4a6e-8f1c-88a7ea77816e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CS3225X7R226K250NRL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf079579-b4ff-48df-88ed-9f8adb613f88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samwha Capacitor"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "200137a9-ccef-41b7-922e-4ec42f2ad6f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/af439f41-b77e-4f94-a2ea-7732a6f755f8")
 		(sheetname "/26 to 12V(5A)/")
@@ -10228,6 +11578,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C381466"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fda6b234-1e49-474f-901f-d7a2287ad42d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FS32X475K101EGG"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "182224c7-6bb8-44c5-8a86-8cd60fe98637")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PSA(Prosperity Dielectrics)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4966e547-a66d-4587-a4c1-b0b25dd7da65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/5a7d932c-0104-4060-be38-d7334597ac33")
 		(sheetname "/26 to 12V(5A)/")
@@ -10371,6 +11760,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f568016c-2de3-4be1-8677-944c5f63676b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53337d52-6f62-4729-8690-becb8e0cd693")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f2d6fff-0e35-4430-b37a-b68699d18d03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10732,6 +12160,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dda61a92-ffd4-4174-b157-e68d7b42e46e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "adfbea8e-3088-46d7-aae8-54369659d7f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d56e425c-dc4a-4019-a7b8-a884fb02f913")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/91e5b310-f9ae-4e3f-8efd-78b76d4cef5b")
 		(sheetname "/Protection Circuit/")
@@ -10879,6 +12346,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "579efdcd-195c-41e1-948c-18bfef35b64c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3cf3cec9-2883-4a1c-a2e3-3ad71cae6ea9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49402bb6-4488-4fa8-af9e-27fde2491880")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/877f6a58-195a-4c3c-97a1-4547941c935c")
 		(sheetname "/Protection Circuit/")
@@ -11021,6 +12527,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C6490398"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7afc71fe-24ce-420b-9c83-c58d4a06c798")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CSNL2010FT5L00"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9065cb5a-ac52-4b24-bbe1-6cb9ff90bc3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "SEI(Stackpole Elec)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fb626b1-dd72-48f9-bdaa-8aa36a4d6e80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11238,6 +12783,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e462cbd-b6fa-4108-b585-263adc824111")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05487398-ff09-4bbc-99b1-4869fdd68e69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6492b77f-4794-4b2e-b578-dcd3b901d023")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/20025314-a09c-4443-95ca-8e96ea351a33")
 		(sheetname "/Protection Circuit/")
@@ -11381,6 +12965,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C123420"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "085c9207-07b6-4170-a902-01da015ac86f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0603FR-07220KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbc32130-d015-494b-8b79-d351ad3be433")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "973e3895-c26e-4b00-bc07-04b04f4db014")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11531,6 +13154,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C844916"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd7f452d-5d95-4bfd-90e7-9bb6be120dad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CRCW0603100KFKEA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3118d05e-0235-4dc1-9b9f-8e2362274c59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Intertech"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c830a9bb-a371-4106-b082-0ed20d345093")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/4596097d-25c6-4a4f-a1f0-3d8fa992dcf8")
 		(sheetname "/26 to 12V(5A)/")
@@ -11675,6 +13337,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "179c517c-8d43-40f4-abb8-2809c85a5dcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "888cceef-88ca-406a-9d15-1d7816291420")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a8dc997-483d-4986-adac-7a8c4f814704")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11824,6 +13525,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7a5466c-8718-47f1-890d-fc1319d989ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c443770d-47f1-437d-8f2a-6144fa2a23cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c360a9a8-8075-43a9-b345-14d56ef9c5a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/a7cc236a-09fc-46be-9bad-fc2f6d4584d8")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -11920,14 +13660,14 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:C_0603_1608Metric"
+	(footprint "Capacitor_SMD:C_0201_0603Metric"
 		(layer "F.Cu")
 		(uuid "7e3f1437-6110-40b2-b843-059b31bf8b30")
 		(at 240.0111 65.0886 -90)
-		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(descr "Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C54"
-			(at 0 -1.43 90)
+			(at 0 -1.05 270)
 			(layer "F.SilkS")
 			(uuid "b16eca91-d44c-49c8-bc46-e874f924cc2f")
 			(effects
@@ -11938,7 +13678,7 @@
 			)
 		)
 		(property "Value" "33pf"
-			(at 0 1.43 90)
+			(at 0 1.05 270)
 			(layer "F.Fab")
 			(uuid "cd529831-e22f-42a0-ac77-645fa1f876e0")
 			(effects
@@ -11949,7 +13689,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1b90d392-1478-4e86-a193-1884e8007f69")
@@ -11960,13 +13700,52 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f2d8c055-0bff-4a67-82db-f1ab0e3c65cf")
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C513616"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07d2ec9f-f876-4344-b59b-ad41c34b298c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0201JRNPO8BN330"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd3254e6-7747-48f0-a0df-866fdc94d107")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bacc8bf7-ab95-4e93-84a4-feb057ab455e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -11982,29 +13761,9 @@
 		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -0.14058 0.51)
-			(end 0.14058 0.51)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c25f4e12-a01c-42bf-a2bb-0f235f649b22")
-		)
-		(fp_line
-			(start -0.14058 -0.51)
-			(end 0.14058 -0.51)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ffa9f264-f189-4855-a688-2dd55353b1bd")
-		)
 		(fp_rect
-			(start -1.48 -0.73)
-			(end 1.48 0.73)
+			(start -0.7 -0.35)
+			(end 0.7 0.35)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12014,8 +13773,8 @@
 			(uuid "fd72277b-9b53-44be-9b5e-553a67af1b31")
 		)
 		(fp_rect
-			(start -0.8 -0.4)
-			(end 0.8 0.4)
+			(start -0.3 -0.15)
+			(end 0.3 0.15)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -12025,36 +13784,50 @@
 			(uuid "2e83c602-ec34-46cc-abd8-675ccade20a8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 -0.68 270)
 			(layer "F.Fab")
 			(uuid "20b04a7e-90a4-481a-a853-1dcf9996106b")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.06)
+					(size 0.25 0.25)
+					(thickness 0.04)
 				)
 			)
 		)
+		(pad "" smd roundrect
+			(at -0.345 0 270)
+			(size 0.318 0.36)
+			(layers "F.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "bf4ff27d-aa8c-44ad-b96e-473f0ad7902b")
+		)
+		(pad "" smd roundrect
+			(at 0.345 0 270)
+			(size 0.318 0.36)
+			(layers "F.Paste")
+			(roundrect_rratio 0.25)
+			(uuid "bd2a4b50-02ee-42bd-bce9-9208d219a1fb")
+		)
 		(pad "1" smd roundrect
-			(at -0.775 0 270)
-			(size 0.9 0.95)
-			(layers "F.Cu" "F.Mask" "F.Paste")
+			(at -0.32 0 270)
+			(size 0.46 0.4)
+			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net "Net-(U4-FB)")
 			(pintype "passive")
 			(uuid "180bfe55-c251-485b-8062-a7929ace5286")
 		)
 		(pad "2" smd roundrect
-			(at 0.775 0 270)
-			(size 0.9 0.95)
-			(layers "F.Cu" "F.Mask" "F.Paste")
+			(at 0.32 0 270)
+			(size 0.46 0.4)
+			(layers "F.Cu" "F.Mask")
 			(roundrect_rratio 0.25)
 			(net "/12V to 3.3V(3A)/Vout+")
 			(pintype "passive")
 			(uuid "59dff08e-6fc0-409d-899e-87e851f14f97")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12114,6 +13887,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b09b4849-f434-457b-a70e-23672bfc23d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d205c6d-9329-4597-bf49-d046c4b47fd8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b579cd49-6a76-4e92-97f9-bf1207bfb89c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -12320,6 +14132,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "977346b4-ffc9-40e0-b5d9-7d9299c7bdde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C2876530"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92bbd4dd-3e68-4aa4-9a7d-379fc20d8aff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CSD19534Q5AT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddfa091b-4524-4d61-b661-0c15392abfb8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b0b0a57-5f77-4b77-a48f-380d3944ce9f")
 			(effects
 				(font
 					(size 1 1)
@@ -12700,6 +14551,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C381466"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26e30fc1-9f42-440c-9a3b-3ba75c716d69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FS32X475K101EGG"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2322930f-bf03-4707-aa56-8064c41198e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PSA(Prosperity Dielectrics)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1de13a2-62ff-4002-9533-da17cebe4d5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/697a2446-6ff0-4ffb-a976-e37255c627d7")
 		(sheetname "/26 to 12V(5A)/")
@@ -12847,6 +14737,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C403057"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e575745a-6d68-4e4c-8fe4-38eb640a6553")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ERJ3EKF2002V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab2996b7-753e-47c1-9e56-fffdc038f6f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PANASONIC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4a0c8c8-191a-4495-b4b9-28b30149d923")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/b50a8480-bae9-47e3-91d7-07e03aebe394")
 		(sheetname "/Protection Circuit/")
@@ -12988,6 +14917,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5219353"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39d40d59-08fb-415e-98a4-6141963d23b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TPS566238RQFR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4ad9e44-a331-456c-9d23-93dd7ee0b531")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93da3ddc-51a0-46b8-ab0b-b5ec255ce28f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13272,6 +15240,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C2918511"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6aa65512-4ed0-44e7-a72a-c9db90e591ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CS3225X7R226K250NRL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7935f311-2bc9-4689-bee1-4a40c175853f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samwha Capacitor"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a63b261b-5810-4764-a737-1c45dbaf7b81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/f0fed32e-b244-4e28-9cd0-684f90059576")
 		(sheetname "/26 to 12V(5A)/")
@@ -13416,6 +15423,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C86018"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ca106c3-9ba7-484d-bbd1-1ea34bf87bcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM188R71A225KE15D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce52f27a-472d-439c-8708-a6055bf0fa31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fd7a81a-1dd1-477c-bdd1-56f8c907565d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14161,6 +16207,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ac15706-9893-421c-9e95-81c39a879157")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29d3e3da-3201-4a7a-90cd-43e8090ba6e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25b577cb-99f6-4a55-a26b-d03f37ddba4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/40066580-7679-4821-bdac-aaa8a149c573")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -14305,6 +16390,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C336627"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e85a11f-430a-49f3-a066-88e353157546")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0603CG101J250NT"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e3b3254-3b43-4147-9527-19dcec920550")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "103d5a1b-839b-4bf5-b642-e7988c62c7b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14455,6 +16579,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C334839"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82687285-77a7-4654-a29a-d816ec02492f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "WR06X9530FTL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc3c0b13-1670-4f93-a013-ba3f3a4bacb7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Walsin Tech Corp"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9742d9cc-e734-4dff-89eb-46ed2dde120b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/a1b07e26-1c4c-4d7f-9d56-f7fd0d47e739")
 		(sheetname "/Protection Circuit/")
@@ -14601,6 +16764,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ca65348-1b9f-4475-8656-f8212dcc06f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44c076dc-cc39-47a0-8922-e98bf10f24a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2596a0bc-edeb-4510-acc9-8f53cab43c13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/d99c0968-28c3-42f1-9f65-d02c89510b5b")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -14744,6 +16946,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ce656bc-784d-432a-87a2-126e9de74b47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8de2bb3-752f-4fe4-8e18-ddfed7a73567")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1219a6b3-17eb-424e-aa59-f667f2f9a791")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14894,6 +17135,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64b7a303-a53e-449f-bd29-260ca83a428b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ebbeeee-49cd-469d-870f-2b47456429fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be2e12f5-bd20-49e2-9c88-ed9e492eca0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/1ee9c895-19e2-4bda-b46c-a9d52b40ed21")
 		(sheetname "/Protection Circuit/")
@@ -15038,6 +17318,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C309475"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f82f7265-cffb-4304-bad2-050a5e875b4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603JRX7R9BB683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "547b273e-f863-4af4-b18f-1d9a753aeef3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c31ac98-1cbd-45ee-946c-c52693f284db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15187,6 +17506,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C71629"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a934a70c-f94e-4ffb-ab6d-8473acd9084b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71C104KA88D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a06aec9-efc8-476f-8e2e-ca78e7de2c41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a286a147-726c-4f70-a003-358e2f59bf6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/36e4d1fb-e788-46c3-887e-e41ce42685be")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -15328,6 +17686,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C50727203"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00fdceb5-1cbb-415a-b3d7-3f4182f34b04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "NTMFS4D5N08XT1G"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bcc14259-9a75-438e-8c20-3ac610fd5841")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "onsemi"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d5ee11d-77f4-4287-b508-7ac52e52f1f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -15672,6 +18069,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C85735"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b918511-ffe4-4074-96df-8e56a3bceecb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "32a024cb-68d9-4854-b83c-5cbb8ec854e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2b4cc2a-e7d4-4892-a292-1500e0cb94a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/bbc847dd-3764-485a-a508-3e47c410b62d")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -15785,7 +18221,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "100nf"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "e23cc53f-993c-4b04-9ad5-b6ff0b5f96f3")
@@ -15815,6 +18251,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b27460b-502b-4323-af34-2aba759e7d85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4460be0c-2bce-4666-80ee-15e6cb85af2a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1341d194-2110-469f-8a51-bfd86deb3a83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -16021,6 +18496,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0c2e65b1-5c4d-44bc-b7df-9456905b6be7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C2876530"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1719edc-4b95-4a6b-99ea-da0a5881560d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CSD19534Q5AT"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0202ebe9-5870-4994-bb42-1e633b2cd6c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "782f10ab-69b0-4382-a48f-4212e1356c13")
 			(effects
 				(font
 					(size 1 1)
@@ -16758,6 +19272,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C85735"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "09af2c3b-557a-4612-afb4-91208a5fde29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c09abefd-ef3d-42b5-b6ee-b694b5081032")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc41d5cd-c841-4215-9317-029884e656e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f7fc7c23-3a4e-412b-b14d-71f85b15285a/2ca9ee51-e489-4604-8f40-e8a7945dbb7b")
 		(sheetname "/12V to 5V(3A)/")
@@ -16901,6 +19454,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2078245"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "026304c6-7881-40e6-b462-e9df8c120d8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "ERJ6ENF9092V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3eb06080-fc91-4290-bdd7-fdb1b986dd89")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PANASONIC"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84b2dc43-88a8-4aff-aebd-b5259f1d4248")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17050,6 +19642,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e8c0f8a-96d2-4487-997d-e320793c0c53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5665afb-cad5-43a0-b9bf-a6aa514a5a5e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3148c8b-e1ba-4bc3-8489-00ab21fbbc8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f7fc7c23-3a4e-412b-b14d-71f85b15285a/66f459d4-f7bf-4ab5-b9ba-0ccaaa7a1a21")
 		(sheetname "/12V to 5V(3A)/")
@@ -17196,6 +19827,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C71629"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d55cdf31-363d-48ea-9d55-1ee2358e4040")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R71C104KA88D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49a9d66f-50de-4c3c-b7e1-84ca7ceb0c0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7669aead-3e0a-4d22-859d-4f9f6961770e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f7fc7c23-3a4e-412b-b14d-71f85b15285a/0e199870-06d2-4bb6-a5a9-c686ab305efc")
 		(sheetname "/12V to 5V(3A)/")
@@ -17339,6 +20009,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C844940"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bfda3abf-e8ef-4e11-ae37-c5c1496ebc9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CRCW080520K0FKEA"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b0695dc-f046-4424-874a-d4986c1ecf83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Intertech"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "161eb2b0-eecb-4186-b755-77e5d08e1303")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17489,6 +20198,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C381466"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fbc9a522-4d71-4e4c-87df-4937e86888d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FS32X475K101EGG"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1262f4d2-43e5-4832-8fa3-ed174a53695f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PSA(Prosperity Dielectrics)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2a48661-ae13-4e0d-b483-93c58ec2e8df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/971c5351-b9a2-473c-9f8e-0055c97e6670")
 		(sheetname "/26 to 12V(5A)/")
@@ -17633,6 +20381,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C381466"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9a7a84eb-efcd-427d-b7a6-87f08b911297")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "FS32X475K101EGG"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4e1c203-d02c-4726-9452-798c77b111e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "PSA(Prosperity Dielectrics)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c34a1a5b-505c-4a63-a402-924ac9eaf569")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17783,6 +20570,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C844932"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0cf6489d-ce74-4b46-81d2-24ddd3ecec87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CRCW060350R0FKEA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c81b9be-6f50-419c-9847-a02d76e969d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay Intertech"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "585f54e3-d797-4401-b2aa-f81b25926583")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/92930aa1-0589-407c-b0e7-4a3166f1d7c2")
 		(sheetname "/Protection Circuit/")
@@ -17930,6 +20756,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1aa27c0c-fa9b-4fab-8179-031e871e4cf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5182071-5eab-4ffd-b942-f1e42c622d39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c51397f-92e5-46da-b6f0-59593d517c5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/1f954d04-41dc-472a-838e-697dfe2eeb80")
 		(sheetname "/26 to 12V(5A)/")
@@ -18074,6 +20939,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C513324"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cdd6bbc-965e-484b-9b7f-cbd040622ebd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "06035A470JAT2A"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2db70b3c-c0e2-4dee-9261-3c8215b8476b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "--"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "490fb364-a9cb-4321-8656-c4c638f8fcf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18504,6 +21408,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8302e0ab-d0fc-4e8a-80e5-73718eb6aa50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad055f24-0a36-4c2a-9a20-0addb914c9e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bdc222d4-9f0c-41f4-a24f-c3ec457b688f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/785f9176-02f6-4ed9-ace6-2f8523a61fa8")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -18648,6 +21591,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c6af8ea-0f58-4f2f-aec5-93600f0f0ad0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccef85eb-c341-4680-914a-2963c188f28b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bbee7bff-9d57-4faa-a06f-1a39730e310d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -18798,6 +21780,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0718944-de1d-4778-a3b8-9bce3fbb4f27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "221a4559-a8a6-4629-b901-3620457bb32b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0833d591-4520-4449-b283-ce79ad3d3c93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/6bc708ab-1543-47bb-b0a6-60f5b2556ccd")
 		(sheetname "/26 to 12V(5A)/")
@@ -18942,6 +21963,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2918511"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04b65c51-c8a1-4f6f-bb7f-ccce87af05bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CS3225X7R226K250NRL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19ecb679-7a8c-45b8-b695-6a26a7c674c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Samwha Capacitor"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38dd9a36-6433-4b22-85b9-167908e04b25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19091,6 +22151,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50b9df16-6440-44b7-8c54-cfeb603c9db9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a786bec4-5bd3-423c-bb4a-12df6f9e8b0e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ce9ea8b-fed5-4709-8d47-736da78136e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/dfc80eff-f669-4156-9776-c154404e1011")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -19235,6 +22334,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C1853238"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8e4a790-1754-4410-80a8-0a914e36dbe7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0603JRX7R0BB103"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea9385ab-c9d7-4800-b894-ea4e5e947d41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3455552a-2bbf-424e-8750-e117db5e24d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -19686,6 +22824,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C92759"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9558694-650d-425a-8533-afec1e2d6a60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "EMK107B7105KA-T"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fe63856-95be-4a31-be52-05508d9d30fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4b3428f-a35d-4841-91ff-69c2441d5090")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/8cad4ca2-ba0b-4eb3-ba1b-4233b97b1d3e/d94969e8-9883-4f43-bb5b-bb3a24803cbe")
 		(sheetname "/26 to 12V(5A)/")
@@ -19828,6 +23005,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C6490398"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b610dcfa-fa2f-4e4f-a8ea-0fa4a1039573")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CSNL2010FT5L00"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76415f13-70cd-4036-bbbb-47370202969c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "SEI(Stackpole Elec)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8de956a9-c982-4a84-b235-aa02f49a3e84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20044,6 +23260,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C108079"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8de91a6-64db-46da-8fbf-746c5c965586")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4013f3a7-ee61-4b83-b1bd-85a9ce77be61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76141e30-3535-42dd-b7c6-766479e7d357")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b82ebbb5-bc9d-4e10-ab51-9ca070da0d99/bf2b8ca2-e7b5-4fb3-904f-825c7918fcad")
 		(sheetname "/12V to 3.3V(3A)/")
@@ -20246,6 +23501,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4b503ecc-d603-447d-baf5-68571b8751e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part" "C2876530"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e011021f-343d-46fc-be38-c2887d983aad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CSD19534Q5AT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1ebe453a-0f61-403b-90de-286743407aab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0933364-cc81-4dd6-bd7a-65b5a822c2d7")
 			(effects
 				(font
 					(size 1 1)
@@ -20626,6 +23920,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C54921593"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0cff05b-5b03-45d2-91d3-c36700ed82f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "HRC1206J223 HNTN"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d00139c-adb6-4fa1-bf0a-077dd15038e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "HWA CHN"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e767d9d-fafe-4ed8-ac6b-39c48b5d44d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/34f1b120-100c-4b9c-aab5-4af335c0442c")
 		(sheetname "/")
@@ -20769,6 +24102,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d104f39-05ac-4a8b-878e-357ed9d6e890")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d59c70c-b41f-43a8-90b5-bf21199764ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "093ab80f-5ff2-4e69-ba4d-264a09d7864e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -20916,6 +24288,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C17516"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee5c3955-ec3b-47ca-b66d-d294a5e15a6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "0805W8F2151T5E"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9042c8cc-4d45-43aa-bbd6-91ce96db2466")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58eb0ca9-39c6-4735-a790-76620674fcf2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -21570,6 +24981,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C5677683"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7349d9dc-67e2-4b4c-ae40-5c0a94786c93")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "MSAST21GBB5226MTNC12"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b946fc0-e169-4c11-8cda-98e1c22fae4f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03a2d437-3f18-40c0-a835-73bac86bc6fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f7fc7c23-3a4e-412b-b14d-71f85b15285a/5e46b272-d006-4309-b421-b9e142829277")
 		(sheetname "/12V to 5V(3A)/")
@@ -21717,6 +25167,45 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C49654961"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f38e4677-4d6b-40d9-89e6-c23b94066d5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GR0603F3K83T5G00"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "50d748ba-a7bc-43a1-9ccd-b32426be5cc7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "GiantOhm"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0332c0b6-962f-49ea-8b7d-7729acdfcc24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/decf1042-8545-4374-a825-63213b68d513/62608dbf-1b99-4660-ad3a-7e9e637babc0")
 		(sheetname "/Protection Circuit/")
@@ -21861,6 +25350,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C445739"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f12a5448-e0e0-472f-8f4b-b1c639bea867")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "C1608C0G1E472JT000N"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c3f0c0d-7cd9-4ee3-bd04-6b1256f26565")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "TDK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f904eb5-11db-4ab4-95be-903b2687d329")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
