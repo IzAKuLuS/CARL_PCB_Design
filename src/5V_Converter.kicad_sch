@@ -2318,7 +2318,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "100nf"
 			(at 237.49 91.4335 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3600,7 +3600,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "100nf"
 			(at 63.5 91.4335 0)
 			(show_name no)
 			(do_not_autoplace no)
