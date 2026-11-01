@@ -2735,7 +2735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 167.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2768,7 +2768,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C513616"
+		(property "LCSC Part" "C107005"
 			(at 167.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2779,7 +2779,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0201JRNPO8BN330"
+		(property "MPN" "CC0402JRNPO9BN330"
 			(at 167.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3787,4 +3787,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
