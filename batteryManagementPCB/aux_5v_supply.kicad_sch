@@ -4,10 +4,242 @@
 	(generator_version "10.0")
 	(uuid "a9db3f4c-28a8-42fe-bf50-182080ce26c4")
 	(paper "A4")
-	(lib_symbols)
+	(lib_symbols
+		(symbol "Device:C"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 24.13 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb1a0756-bed6-4b2d-aba1-06ea7c822084")
+	)
+	(wire
+		(pts
+			(xy 15.24 35.56) (xy 15.24 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "011c652c-0290-4159-802f-d07df2339e79")
+	)
+	(wire
+		(pts
+			(xy 24.13 17.78) (xy 33.02 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54b4d5b9-4590-4f4d-8ffe-9a75387e940d")
+	)
+	(wire
+		(pts
+			(xy 15.24 38.1) (xy 21.59 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6121d6f8-663b-47c4-a006-44bd33e5c835")
+	)
+	(wire
+		(pts
+			(xy 33.02 27.94) (xy 24.13 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "667f079d-c000-4af6-8a66-ec8933be4c22")
+	)
+	(wire
+		(pts
+			(xy 15.24 27.94) (xy 24.13 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "898631d4-c311-4fbb-8260-d9848548b4ed")
+	)
+	(wire
+		(pts
+			(xy 24.13 19.05) (xy 24.13 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b273b084-c2cf-46a3-8385-46dc2d90da1c")
+	)
+	(wire
+		(pts
+			(xy 24.13 27.94) (xy 24.13 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e221ae98-90de-422c-9afe-110b33562008")
+	)
 	(hierarchical_label "BATT_NEG"
 		(shape input)
-		(at 20.32 27.94 0)
+		(at 33.02 27.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29,7 +261,7 @@
 	)
 	(hierarchical_label "AUX_FUSED"
 		(shape input)
-		(at 20.32 17.78 0)
+		(at 33.02 17.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -37,5 +269,169 @@
 			(justify left)
 		)
 		(uuid "987da8ce-bfac-4a92-b389-a876c5fbd8fb")
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 24.13 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24ba29c1-3939-49f7-95c8-4b133fcd5c43")
+		(property "Reference" "C1"
+			(at 27.94 21.5899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF 100V"
+			(at 27.94 24.1299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.0952 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 24.13 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f5e013b2-61b7-45c5-874e-7393fc882525")
+		)
+		(pin "2"
+			(uuid "dce3cf87-a2fd-4d5d-9964-b11dd2682f0c")
+		)
+		(instances
+			(project "batteryManagementPCB"
+				(path "/6dd1f558-7f8c-4ebd-9583-043895e8d56f/8856552e-c865-4ad4-b726-b15a1aa8b7c7"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 15.24 31.75 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3b2ae18-0304-443b-8f16-273201d2f1c1")
+		(property "Reference" "C2"
+			(at 19.05 30.4799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "22uF 10V"
+			(at 19.05 33.0199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 14.2748 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 15.24 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 15.24 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a60f2528-b625-4bc7-94ab-8b37371e20c1")
+		)
+		(pin "2"
+			(uuid "a18974b5-5aa9-4b60-b114-b906d69ee45c")
+		)
+		(instances
+			(project "batteryManagementPCB"
+				(path "/6dd1f558-7f8c-4ebd-9583-043895e8d56f/8856552e-c865-4ad4-b726-b15a1aa8b7c7"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
 	)
 )

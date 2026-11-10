@@ -44,6 +44,8 @@ The battery label confirms 25.6 V nominal and 50 Ah, but does not specify charge
 
 The existing CARL 5 V fusebox is switched off when the vehicle is off and the battery is charging. It draws from the same 24 V battery but bypasses the R1 current-sense path shown on this schematic. Therefore it cannot be the sole supply for live charging telemetry, and R1 cannot count that fusebox load in the state-of-charge estimate as currently wired. Keep the dedicated `AUX_5V_SUPPLY` block fed from `BATT_BUS`. Before the design is finalized, either route the fusebox's battery feed through the common battery current sensor or measure its branch separately. Do not claim accurate coulomb-counted state of charge until every battery branch is accounted for.
 
+The `AUX_5V_SUPPLY` sheet currently has input and output capacitors drawn around a future wide-input 5 V converter. The MORNSUN K78U05-1000R3 is a candidate (9-75 V input, 5 V/1 A output), not yet a finalized part. Its datasheet calls out extra heat-dissipation shell terminals and states that the input is not reverse-polarity protected. The project-specific symbol and eventual footprint must capture the actual package and all terminals; do not substitute a plain three-pin linear-regulator footprint. See the manufacturer's K78Uxx-1000R3(L) datasheet.
+
 ## First KiCad exercise
 
 1. Open `batteryManagementPCB.kicad_sch` in Schematic Editor.
