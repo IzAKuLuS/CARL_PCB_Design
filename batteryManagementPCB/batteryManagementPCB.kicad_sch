@@ -163,6 +163,129 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016)
@@ -1117,6 +1240,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "CARL 5V fusebox currently bypasses R1. Measure its branch before finalizing charge percentage. "
+		(exclude_from_sim no)
+		(at 126.746 12.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e14b379c-6961-4fd5-bd97-7ee868cab44d")
+	)
 	(wire
 		(pts
 			(xy 25.4 52.07) (xy 33.02 52.07)
@@ -1156,6 +1289,16 @@
 			(type default)
 		)
 		(uuid "191781e1-9328-445e-8712-110880b6ad63")
+	)
+	(wire
+		(pts
+			(xy 22.86 99.06) (xy 33.02 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "260235a5-a5b2-4a9d-96f7-761811567d31")
 	)
 	(wire
 		(pts
@@ -1209,6 +1352,16 @@
 	)
 	(wire
 		(pts
+			(xy 17.78 106.68) (xy 33.02 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47eeae80-d334-4c9f-8a84-84ee1449a41a")
+	)
+	(wire
+		(pts
 			(xy 93.98 21.59) (xy 106.68 21.59)
 		)
 		(stroke
@@ -1219,6 +1372,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 101.6) (xy 33.02 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "559b317e-c1af-4bca-a432-c54346d0274c")
+	)
+	(wire
+		(pts
 			(xy 217.17 49.53) (xy 217.17 50.8)
 		)
 		(stroke
@@ -1226,6 +1389,16 @@
 			(type default)
 		)
 		(uuid "591214de-43ce-4aa5-93ea-52187b230896")
+	)
+	(wire
+		(pts
+			(xy 212.09 29.21) (xy 229.87 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59441237-2b8f-4db9-811e-fbfb8a8c18ae")
 	)
 	(wire
 		(pts
@@ -1249,6 +1422,26 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 97.79) (xy 63.5 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62aa6607-56b8-408f-8a62-467f897cf12a")
+	)
+	(wire
+		(pts
+			(xy 57.15 101.6) (xy 63.5 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63409a80-77f7-4d36-aa88-a96ad533391a")
+	)
+	(wire
+		(pts
 			(xy 243.84 58.42) (xy 243.84 60.96)
 		)
 		(stroke
@@ -1256,16 +1449,6 @@
 			(type default)
 		)
 		(uuid "6381a4ee-9352-4725-b549-905a8f44a8c2")
-	)
-	(wire
-		(pts
-			(xy 218.44 29.21) (xy 229.87 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "652d1f4d-cce0-4290-a173-002fc4d1869a")
 	)
 	(wire
 		(pts
@@ -1279,6 +1462,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 105.41) (xy 63.5 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a5b2bba-f379-4946-8467-7f65ce5bf023")
+	)
+	(wire
+		(pts
 			(xy 69.85 35.56) (xy 72.39 35.56)
 		)
 		(stroke
@@ -1286,6 +1479,16 @@
 			(type default)
 		)
 		(uuid "6e31f0b7-3339-43bf-8479-7395cfc6da61")
+	)
+	(wire
+		(pts
+			(xy 212.09 34.29) (xy 212.09 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71863ec2-0eb2-4852-9fbc-56766f941126")
 	)
 	(wire
 		(pts
@@ -1309,6 +1512,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 22.86) (xy 212.09 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dc4ffe3-f426-496c-8d80-5a3cb39bfbf9")
+	)
+	(wire
+		(pts
 			(xy 49.53 21.59) (xy 62.23 21.59)
 		)
 		(stroke
@@ -1316,6 +1529,16 @@
 			(type default)
 		)
 		(uuid "a0672e36-4e94-4d6d-ac37-a62bc06f4d20")
+	)
+	(wire
+		(pts
+			(xy 212.09 34.29) (xy 229.87 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a597a76a-95b5-4311-aeec-9ad27dafccec")
 	)
 	(wire
 		(pts
@@ -1346,6 +1569,16 @@
 			(type default)
 		)
 		(uuid "aa8c093f-3180-4bea-9d5d-90871d8f7f4c")
+	)
+	(wire
+		(pts
+			(xy 17.78 104.14) (xy 33.02 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba2215bc-ad16-4837-9eba-6d96953554d4")
 	)
 	(wire
 		(pts
@@ -1396,16 +1629,6 @@
 			(type default)
 		)
 		(uuid "de17d8da-055f-4a08-99a7-a0d83c0cd3f4")
-	)
-	(wire
-		(pts
-			(xy 218.44 34.29) (xy 229.87 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4af68fe-e117-4435-a209-015fbdbe8e1d")
 	)
 	(wire
 		(pts
@@ -1477,6 +1700,16 @@
 		)
 		(uuid "0065c89a-dfc7-4436-b6ac-5c19ab1489cb")
 	)
+	(label "5V_AUX"
+		(at 63.5 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "07fbb71e-6db7-4eac-be6b-dbfc4d4b7265")
+	)
 	(label "3.3V_SENSE"
 		(at 189.23 49.53 0)
 		(effects
@@ -1496,6 +1729,16 @@
 			(justify left bottom)
 		)
 		(uuid "0c13098d-0146-4078-af74-40ed4c8ed002")
+	)
+	(label "CAN_L"
+		(at 22.86 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0c633bee-3ed6-42ed-a8f3-bc19b5691ec6")
 	)
 	(label "BATT_BUS"
 		(at 120.65 21.59 0)
@@ -1587,6 +1830,16 @@
 		)
 		(uuid "49bbef67-3460-4590-a7ed-dba35e979c61")
 	)
+	(label "BATT_NEG"
+		(at 63.5 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4e5c7966-2a6c-467f-8a4c-f67b48dbc24b")
+	)
 	(label "BATT_FUSED"
 		(at 93.98 21.59 0)
 		(effects
@@ -1606,6 +1859,16 @@
 			(justify left bottom)
 		)
 		(uuid "5360a0e5-a0c7-477e-9fb0-ef6d41e33953")
+	)
+	(label "3.3V_SENSE"
+		(at 63.5 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "55d32f59-c98a-489d-a4db-28f92ea08525")
 	)
 	(label "AUX_FUSED"
 		(at 243.84 49.53 0)
@@ -1646,6 +1909,16 @@
 			(justify left bottom)
 		)
 		(uuid "5fa15a80-8d75-45c4-9336-79f5222ccdb2")
+	)
+	(label "CAN_H"
+		(at 22.86 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61720fe1-a014-4c07-bbf2-99f720b2aeb3")
 	)
 	(label "BATT_NEG"
 		(at 165.1 54.61 0)
@@ -1777,6 +2050,26 @@
 		)
 		(uuid "aec4d06f-4a51-48f3-95f4-b952a4e1cfe9")
 	)
+	(label "BUS_V_SENSE"
+		(at 17.78 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b64a7b5b-aa5a-4057-899a-8f8344fc9163")
+	)
+	(label "5V_AUX"
+		(at 218.44 29.21 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b65ca943-4444-46d4-8a6e-636ba6d5566b")
+	)
 	(label "BATT_BUS"
 		(at 217.17 49.53 0)
 		(effects
@@ -1807,15 +2100,15 @@
 		)
 		(uuid "e860ac86-a552-434e-8c9e-1230948677d0")
 	)
-	(label "5V_AUX"
-		(at 218.44 29.21 0)
+	(label "TEMP_NTC_A"
+		(at 17.78 106.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "f17de3f4-511f-4d74-b625-ce841c85596c")
+		(uuid "feefe9ac-56f3-494a-a59b-b4877bfed05f")
 	)
 	(symbol
 		(lib_id "Device:Fuse")
@@ -2382,6 +2675,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 212.09 38.1 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78dd4090-dd3b-4a58-b004-209b5071b0ac")
+		(property "Reference" "TP2"
+			(at 214.63 40.1319 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 214.63 42.6719 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 207.01 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 212.09 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9b78b60a-d3bd-4300-85cc-9da9fcc54442")
+		)
+		(instances
+			(project "batteryManagementPCB"
+				(path "/6dd1f558-7f8c-4ebd-9583-043895e8d56f"
+					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x03")
 		(at 22.86 189.23 180)
 		(unit 1)
@@ -2459,6 +2831,85 @@
 			(project "batteryManagementPCB"
 				(path "/6dd1f558-7f8c-4ebd-9583-043895e8d56f"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 212.09 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8b0ce6a3-896b-4238-b71d-1a79150e9de1")
+		(property "Reference" "TP1"
+			(at 214.63 18.2879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 214.63 20.8279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 212.09 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b4f24bbd-3e83-4c0f-992b-a6d398cc6387")
+		)
+		(instances
+			(project "batteryManagementPCB"
+				(path "/6dd1f558-7f8c-4ebd-9583-043895e8d56f"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -3112,6 +3563,122 @@
 		)
 	)
 	(sheet
+		(at 33.02 95.25)
+		(size 24.13 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 15 255 7 1)
+		)
+		(uuid "40e9b901-cdb9-458f-af41-b754946b20e3")
+		(property "Sheetname" "TEENSY_4_1"
+			(at 33.02 94.5384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "teensy_4_1.kicad_sch"
+			(at 33.02 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "3.3V_SENSE" output
+			(at 57.15 97.79 0)
+			(uuid "a2cc3960-7523-421f-8a98-6b03cf1a253a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "5V_AUX" input
+			(at 57.15 101.6 0)
+			(uuid "6cf83d8a-ecea-4202-b4d0-dff2b8702046")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BATT_NEG" input
+			(at 57.15 105.41 0)
+			(uuid "dbb5566c-8ade-4e5d-a3c9-0ab9bf3431f9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CAN_H" bidirectional
+			(at 33.02 99.06 180)
+			(uuid "abb7eeb7-47bc-4311-9b23-1bfb96717c3b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CAN_L" bidirectional
+			(at 33.02 101.6 180)
+			(uuid "47fe3602-b61f-440a-8a84-349c97f5b00d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BUS_V_SENSE" input
+			(at 33.02 104.14 180)
+			(uuid "f049b951-2169-410d-82af-bd290923d1d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TEMP_NTC_A" input
+			(at 33.02 106.68 180)
+			(uuid "935b92b2-c8b0-4215-96f9-54df178b09b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "batteryManagementPCB"
+				(path "/6dd1f558-7f8c-4ebd-9583-043895e8d56f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 229.87 25.4)
 		(size 12.7 13.97)
 		(exclude_from_sim no)
@@ -3124,7 +3691,7 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0)
+			(color 16 255 0 1)
 		)
 		(uuid "8856552e-c865-4ad4-b726-b15a1aa8b7c7")
 		(property "Sheetname" "AUX_5V_SUPPLY"
