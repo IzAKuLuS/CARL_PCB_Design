@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "a9db3f4c-28a8-42fe-bf50-182080ce26c4")
 	(paper "A4")
+	(title_block
+		(title "Auxilliary 5V Supply")
+		(rev "V1")
+		(company "Autonomous Systems Laboratory")
+		(comment 1 "Engineer: Isaac Alvarado")
+	)
 	(lib_symbols
 		(symbol "CARL_Power:K78U05-1000R3"
 			(exclude_from_sim no)
@@ -674,6 +680,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 81.28) (xy 63.5 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1887ca24-1bdb-483d-9992-fbba446b2375")
+	)
+	(wire
+		(pts
+			(xy 25.4 102.87) (xy 63.5 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b34ff0-95a3-47f1-9205-272464fe03f5")
+	)
+	(wire
+		(pts
 			(xy 78.74 69.85) (xy 85.09 69.85)
 		)
 		(stroke
@@ -714,6 +740,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 81.28) (xy 25.4 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e03865b-3900-4819-977d-6f5b18d981f7")
+	)
+	(wire
+		(pts
 			(xy 15.24 69.85) (xy 15.24 73.66)
 		)
 		(stroke
@@ -721,6 +757,16 @@
 			(type default)
 		)
 		(uuid "9ec0d9e4-8dce-43f5-a1fa-55c42786507d")
+	)
+	(wire
+		(pts
+			(xy 52.07 81.28) (xy 63.5 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad7268a5-5867-4b25-af85-c7d6213f4132")
 	)
 	(wire
 		(pts
@@ -741,6 +787,16 @@
 			(type default)
 		)
 		(uuid "bcf7c221-2777-440e-9fbb-89816528bb54")
+	)
+	(wire
+		(pts
+			(xy 41.91 81.28) (xy 25.4 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfa8e92d-0508-4156-b83a-a7b13b4f943a")
 	)
 	(wire
 		(pts

@@ -4,165 +4,11 @@
 	(generator_version "10.0")
 	(uuid "6dd1f558-7f8c-4ebd-9583-043895e8d56f")
 	(paper "A4")
+	(title_block
+		(company "Autonomous Systems Laboratory")
+		(comment 1 "Engineer: Isaac Alvarado")
+	)
 	(lib_symbols
-		(symbol "Conn_01x02_1"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x02"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x02_1_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers
 				(hide yes)
@@ -1240,6 +1086,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Provisional Charger: 24V LiFePO4, 28.4V, 5A; Battery maximum charge ratings unknown"
+		(exclude_from_sim no)
+		(at 182.626 67.056 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "629ecac8-2070-4eba-a397-554a931af209")
+	)
+	(text "TDK B57703M0103A018"
+		(exclude_from_sim no)
+		(at 22.352 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6daed3ee-e34c-4ba8-a038-6dd1f78e5fcf")
+	)
 	(text "CARL 5V fusebox currently bypasses R1. Measure its branch before finalizing charge percentage. "
 		(exclude_from_sim no)
 		(at 126.746 12.7 0)
@@ -1690,7 +1556,7 @@
 		)
 		(uuid "f2abd4da-e829-4b00-9800-3ebe26d7d0e9")
 	)
-	(label "CHARGE_SENSE_OUT"
+	(label "CHARGER_INPUT_FUSED"
 		(at 180.34 34.29 0)
 		(effects
 			(font
@@ -2090,7 +1956,7 @@
 		)
 		(uuid "e35942ad-f297-4f0c-96fe-b66e2059bf64")
 	)
-	(label "CAN_GND"
+	(label "BATT_NEG"
 		(at 36.83 186.69 0)
 		(effects
 			(font
@@ -2455,7 +2321,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "DIVIDER_TOP_TBD"
+		(property "Value" "200k 1%"
 			(at 113.03 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3098,7 +2964,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NTC_PULLUP_TBD"
+		(property "Value" "10k 1%"
 			(at 191.77 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3238,7 +3104,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Conn_01x02_1")
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 20.32 29.21 180)
 		(unit 1)
@@ -3341,7 +3206,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DIVIDER_BOTTOM_TBD"
+		(property "Value" "10k 1%"
 			(at 113.03 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
