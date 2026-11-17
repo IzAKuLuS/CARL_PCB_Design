@@ -1,0 +1,221 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c0e645fd-3571-4fb9-986b-be215ae951d3")
+	(paper "A4")
+	(lib_symbols)
+	(text "CARL Shematic\n"
+		(exclude_from_sim no)
+		(at 230.124 174.244 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+				(thickness 0.635)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "85a427c7-6461-404a-98ef-d17bf838ddb9")
+	)
+	(sheet
+		(at 153.67 81.28)
+		(size 40.64 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "36250405-934f-461a-9791-24e54ad7cbc7")
+		(property "Sheetname" "STM32"
+			(at 153.67 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STM32.kicad_sch"
+			(at 153.67 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 153.67 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "Circuit Design"
+				(path "/c0e645fd-3571-4fb9-986b-be215ae951d3"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 81.28)
+		(size 40.64 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5395bee0-5936-4e2a-8566-8017e57f2725")
+		(property "Sheetname" "Throttle"
+			(at 57.15 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Throttle.kicad_sch"
+			(at 57.15 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuit Design"
+				(path "/c0e645fd-3571-4fb9-986b-be215ae951d3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 81.28)
+		(size 40.64 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "576da5d0-83da-4a09-b52f-a51648b96d86")
+		(property "Sheetname" "Steering"
+			(at 105.41 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Steering.kicad_sch"
+			(at 105.41 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuit Design"
+				(path "/c0e645fd-3571-4fb9-986b-be215ae951d3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 201.93 81.28)
+		(size 40.64 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e6bdffb2-43aa-4c69-9a46-9463080428e8")
+		(property "Sheetname" "Power"
+			(at 201.93 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 201.93 104.7246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Circuit Design"
+				(path "/c0e645fd-3571-4fb9-986b-be215ae951d3"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

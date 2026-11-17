@@ -1,0 +1,8 @@
+.DS_Store
+.history/
+*.bak
+*-backups/
+*.lck
+*.lock
+*.kicad_prl
+
