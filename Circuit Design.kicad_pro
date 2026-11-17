@@ -634,7 +634,7 @@
         "uuid": "c0e645fd-3571-4fb9-986b-be215ae951d3"
       }
     ],
-    "used_designators": "Quadature_Encoder_1,Teensy4.1_1,Quadature_Encoder_RR1,Stepper_Driver1,Fuse_Box_24V1,Fuse_Box_12P1,Fuse_Box_5V1,MPU_9250/6502,Buck_Converter_12V1-2",
+    "used_designators": "Limit_Swtich_Right1",
     "variants": []
   },
   "sheets": [
