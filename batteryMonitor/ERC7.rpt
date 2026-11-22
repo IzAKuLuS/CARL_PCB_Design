@@ -1,0 +1,117 @@
+ERC report (2026-11-20T15:50:56, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 2050 mils): Symbol U4 Pin 8 [PF0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 2150 mils): Symbol U4 Pin 9 [PF1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 2650 mils): Symbol U4 Pin 40 [PD2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 2750 mils): Symbol U4 Pin 41 [PD3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 2950 mils): Symbol U4 Pin 30 [PC6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 3050 mils): Symbol U4 Pin 31 [PC7, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 3250 mils): Symbol U4 Pin 2 [PC14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(17900 mils, 3350 mils): Symbol U4 Pin 3 [PC15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 1850 mils): Symbol U4 Pin 11 [PA0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 1950 mils): Symbol U4 Pin 12 [PA1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2050 mils): Symbol U4 Pin 13 [PA2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2150 mils): Symbol U4 Pin 14 [PA3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2250 mils): Symbol U4 Pin 15 [PA4, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2350 mils): Symbol U4 Pin 16 [PA5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2450 mils): Symbol U4 Pin 17 [PA6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2550 mils): Symbol U4 Pin 18 [PA7, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2650 mils): Symbol U4 Pin 28 [PA8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2750 mils): Symbol U4 Pin 33 [PA9/PA11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 2950 mils): Symbol U4 Pin 34 [PA10/PA12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 3350 mils): Symbol U4 Pin 37 [PA15, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 3650 mils): Symbol U4 Pin 20 [PB1, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 3750 mils): Symbol U4 Pin 21 [PB2, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 3850 mils): Symbol U4 Pin 42 [PB3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 3950 mils): Symbol U4 Pin 43 [PB4, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4050 mils): Symbol U4 Pin 44 [PB5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4350 mils): Symbol U4 Pin 47 [PB8, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4450 mils): Symbol U4 Pin 48 [PB9, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4550 mils): Symbol U4 Pin 22 [PB10, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4650 mils): Symbol U4 Pin 23 [PB11, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4750 mils): Symbol U4 Pin 24 [PB12, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4850 mils): Symbol U4 Pin 25 [PB13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 4950 mils): Symbol U4 Pin 26 [PB14, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(20100 mils, 5050 mils): Symbol U4 Pin 27 [PB15, Bidirectional, Line]
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(24000 mils, 5100 mils): Label 'CANH'
+[isolated_pin_label]: Label connected to only one pin
+    ; warning
+    @(24000 mils, 5200 mils): Label 'CANL'
+
+ ** ERC messages: 35  Errors 33  Warnings 2
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

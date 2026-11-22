@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CARLbatteryMonitor") (type "KiCad") (uri "${KIPRJMOD}/CARLbatteryMonitor.kicad_sym") (options "") (descr ""))
+)
