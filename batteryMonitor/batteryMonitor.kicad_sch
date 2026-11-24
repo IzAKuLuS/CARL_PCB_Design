@@ -40173,6 +40173,207 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:LED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -43048,7 +43249,7 @@
 	)
 	(text "always on 3.3v supply\nbattery input -> separate branch protection -> 3.3V buck -> 3.3V_MON"
 		(exclude_from_sim no)
-		(at 39.878 114.046 0)
+		(at 99.06 128.778 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43237,10 +43438,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd9b3bde-3c4f-4a14-880d-0e63d80aa108")
-	)
-	(no_connect
-		(at 400.05 90.17)
-		(uuid "08c99f33-f6b0-4a04-8f07-98ae3c530d82")
 	)
 	(no_connect
 		(at 233.68 146.05)
@@ -43482,7 +43679,7 @@
 	)
 	(wire
 		(pts
-			(xy 420.37 92.71) (xy 420.37 82.55)
+			(xy 422.91 92.71) (xy 422.91 82.55)
 		)
 		(stroke
 			(width 0)
@@ -43569,6 +43766,26 @@
 			(type default)
 		)
 		(uuid "28d906d3-7f1c-4e59-bdf0-fbc937804216")
+	)
+	(wire
+		(pts
+			(xy 494.03 143.51) (xy 491.49 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e12fbb5-1833-4911-9ad8-0cb63aed9199")
+	)
+	(wire
+		(pts
+			(xy 494.03 144.78) (xy 494.03 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e6565bc-2f73-403e-88b6-4ad4ebd16a56")
 	)
 	(wire
 		(pts
@@ -43962,16 +44179,6 @@
 	)
 	(wire
 		(pts
-			(xy 494.03 144.78) (xy 494.03 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bb13890-b987-4bfd-a387-7a289adab59a")
-	)
-	(wire
-		(pts
 			(xy 64.77 76.2) (xy 64.77 78.74)
 		)
 		(stroke
@@ -44062,7 +44269,7 @@
 	)
 	(wire
 		(pts
-			(xy 400.05 82.55) (xy 420.37 82.55)
+			(xy 400.05 82.55) (xy 422.91 82.55)
 		)
 		(stroke
 			(width 0)
@@ -44172,16 +44379,6 @@
 	)
 	(wire
 		(pts
-			(xy 494.03 146.05) (xy 491.49 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3932fd3-0578-41f5-a20c-79a70ecebba5")
-	)
-	(wire
-		(pts
 			(xy 255.27 148.59) (xy 273.05 148.59)
 		)
 		(stroke
@@ -44229,6 +44426,16 @@
 			(type default)
 		)
 		(uuid "b004cedd-d603-4f4e-b039-dbe81eece0c1")
+	)
+	(wire
+		(pts
+			(xy 491.49 146.05) (xy 491.49 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b27b467b-7353-434d-a1d3-4e9157286e74")
 	)
 	(wire
 		(pts
@@ -44469,6 +44676,16 @@
 			(type default)
 		)
 		(uuid "db037d49-5bad-4fae-b98d-aab2d3a93561")
+	)
+	(wire
+		(pts
+			(xy 422.91 92.71) (xy 420.37 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc95db62-46c5-45a7-ab62-54ffe917430c")
 	)
 	(wire
 		(pts
@@ -44720,6 +44937,16 @@
 		)
 		(uuid "204ff9bd-4239-48fc-97e0-1645c66b3097")
 	)
+	(label "BATT_NEG"
+		(at 304.8 57.15 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "206c04db-29ea-4cd4-b6cb-0e176b74312e")
+	)
 	(label "3.3V_MON"
 		(at 492.76 80.01 0)
 		(effects
@@ -44951,7 +45178,7 @@
 		(uuid "765c6051-69c8-4c98-9fde-30f47b3e2703")
 	)
 	(label "BATT_POS"
-		(at 16.51 132.08 90)
+		(at 54.61 143.51 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45080,6 +45307,16 @@
 		)
 		(uuid "8ab8fc9b-92a8-495e-bb01-1fe29e8226bc")
 	)
+	(label "SOC_SYNC_STATUS_LED"
+		(at 304.8 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8e0982cc-4852-4681-9b9d-61ff4cb55a37")
+	)
 	(label "CAN_TX_MCU"
 		(at 481.33 119.38 180)
 		(effects
@@ -45150,16 +45387,6 @@
 		)
 		(uuid "a6a54d6e-ddad-49df-b501-e97342d90b87")
 	)
-	(label "BATT_NEG"
-		(at 491.49 143.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a8642fd5-af18-4d84-bf61-c93c4b0949bc")
-	)
 	(label "OUT+"
 		(at 50.8 21.59 0)
 		(effects
@@ -45189,6 +45416,16 @@
 			(justify left bottom)
 		)
 		(uuid "aafccd52-f8d2-480c-b449-b5115df53d1d")
+	)
+	(label "SOC_SYNC_STATUS_LED"
+		(at 400.05 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "abe3d246-f649-4d01-9cb6-e7512994961f")
 	)
 	(label "SOC_SYNC_BTN"
 		(at 486.41 55.88 0)
@@ -45451,7 +45688,7 @@
 		(uuid "e0e6f457-ea9c-4978-a8f4-72abc23b28ac")
 	)
 	(label "AUX_FUSED_POS"
-		(at 16.51 139.7 270)
+		(at 54.61 151.13 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -46100,7 +46337,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 490.22 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -46825,7 +47062,7 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 16.51 135.89 180)
+		(at 54.61 147.32 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -46836,7 +47073,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e31ec4b-2fe5-4fce-a20c-4522ee3179e2")
 		(property "Reference" "F2"
-			(at 19.05 134.6199 0)
+			(at 57.15 146.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -46847,7 +47084,7 @@
 			)
 		)
 		(property "Value" "AUX_FUSE_TBD"
-			(at 19.05 137.1599 0)
+			(at 57.15 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -46858,7 +47095,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 18.288 135.89 90)
+			(at 56.388 147.32 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46869,7 +47106,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 16.51 135.89 0)
+			(at 54.61 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46880,7 +47117,7 @@
 			)
 		)
 		(property "Description" "Fuse"
-			(at 16.51 135.89 0)
+			(at 54.61 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47619,6 +47856,99 @@
 			(project "batteryMonitor"
 				(path "/4d5a6198-2fc9-4d1c-8cb9-ba945196ad53"
 					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 304.8 53.34 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "81c92eb5-85a1-4016-84d6-ec8cea0bd572")
+		(property "Reference" "D1"
+			(at 308.61 53.6574 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "LED"
+			(at 308.61 56.1974 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 304.8 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 304.8 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 304.8 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 304.8 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7b7ef8f0-8a68-459c-bbf4-fc8fbdd30fec")
+		)
+		(pin "2"
+			(uuid "8df51915-43b8-439d-9a4a-7bae29b39503")
+		)
+		(instances
+			(project "batteryMonitor"
+				(path "/4d5a6198-2fc9-4d1c-8cb9-ba945196ad53"
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -48431,7 +48761,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
+		(lib_id "Connector_Generic:Conn_01x02")
 		(at 486.41 146.05 180)
 		(unit 1)
 		(body_style 1)
@@ -48484,7 +48814,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 486.41 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -48497,9 +48827,6 @@
 		)
 		(pin "1"
 			(uuid "aa1f12fc-cb8e-4c72-b9df-a7b86c6fa5b1")
-		)
-		(pin "3"
-			(uuid "1a5d1b95-7173-435c-b97e-5455f2a65d32")
 		)
 		(pin "2"
 			(uuid "73996e78-fa51-4eb3-901b-e2f13ff1ae80")
@@ -48953,6 +49280,88 @@
 			(project "batteryMonitor"
 				(path "/4d5a6198-2fc9-4d1c-8cb9-ba945196ad53"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 304.8 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d40809ff-1e15-4a83-a94f-911a6b2ced4d")
+		(property "Reference" "R13"
+			(at 307.34 44.4499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2k"
+			(at 307.34 46.9899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 303.022 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 304.8 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 304.8 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ce060463-ed86-47a0-9959-821e11322c2f")
+		)
+		(pin "1"
+			(uuid "c56151eb-ecb7-4034-8a41-f86b39cea6de")
+		)
+		(instances
+			(project "batteryMonitor"
+				(path "/4d5a6198-2fc9-4d1c-8cb9-ba945196ad53"
+					(reference "R13")
 					(unit 1)
 				)
 			)
